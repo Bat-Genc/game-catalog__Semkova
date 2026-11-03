@@ -21,25 +21,25 @@ markdown
    docker compose up -d
 (Базата данни автоматично се инициализира с примерни данни от db/init.sql)
 
-##Стартиране на Backend сървъра:
-###bash
+## Стартиране на Backend сървъра:
+```bash 
     cd backend
     npm install
     node server.js
+```
+Важно: Сървърът ще работи на http://localhost:3000
 
-!!(Сървърът ще работи на http://localhost:3000)
-
-##Стартиране на Frontend:
-###Отворете нов терминал и изпълнете:
-###bash
+## Стартиране на Frontend:
+### Отворете нов терминал и изпълнете:
+```bash
     npx serve frontend
 
 !!(Отворете генерирания линк в браузъра)
+```
 
 
 
-
-#📂 Структура на проекта
+# 📂 Структура на проекта
 /db – SQL скриптове за инициализация
 
 /backend – Node.js сървър и API рутиране
@@ -49,39 +49,3 @@ markdown
 docker-compose.yml – Конфигурация за Docker контейнерите
 
 ![alt text](image.png) 
-
----
-
-### 2. 📄 `Bat_Genc_Tasks.md` (Backend & Database задачи)
-
-```markdown
-# ⚙️ Backend & Database - Задачи и Документация
-
-Този файл описва работата по сървърната част и базата данни.
-
-## 🗄️ Структура на Базата Данни
-Таблица `games`:
-* `id` (INT, Primary Key, Auto Increment)
-* `title` (VARCHAR)
-* `studio` (VARCHAR)
-* `year` (INT)
-* `guide` (TEXT)
-* `rating` (DECIMAL)
-* `image_url` (VARCHAR)
-
-## 🔌 API Endpoints (REST)
-
-### 1. Вземане на всички игри (с опция за търсене и филтриране)
-* **URL:** `GET /api/games`
-* **Query параметри (по избор):**
-  * `?search=име` (Търсене по заглавие чрез `LIKE`)
-  * `?studio=име` (Филтър по точно име на студио)
-  * `?minRating=число` (Филтър за минимален рейтинг)
-* **Пример:** `GET /api/games?search=witcher&minRating=9.0`
-* **Отговор:** JSON масив с обекти.
-
-## 🛠 Задачи за Backend разработчика:
-1. Поддръжка на `server.js` и осигуряване на връзка с MySQL (включително `charset: 'utf8mb4'` за кирилица).
-2. Поддръжка на `docker-compose.yml`.
-3. *(Бонус)* Добавяне на нов endpoint `POST /api/games` за добавяне на нови игри през API.
-4. *(Бонус)* Добавяне на параметър за сортиране: `?sort=year` (най-новите първи).
