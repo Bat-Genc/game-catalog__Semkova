@@ -39,7 +39,7 @@ markdown
 
 
 
-📂 Структура на проекта
+#📂 Структура на проекта
 /db – SQL скриптове за инициализация
 
 /backend – Node.js сървър и API рутиране
@@ -48,9 +48,7 @@ markdown
 
 docker-compose.yml – Конфигурация за Docker контейнерите
 
-https://image.png/
-
-text
+![alt text](image.png) 
 
 ---
 
