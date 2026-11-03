@@ -1,0 +1,25 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: games-db
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    environment:
+      MYSQL_ROOT_PASSWORD: studentpass
+      MYSQL_DATABASE: games_catalog
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-pstudentpass"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  adminer:
+    image: adminer:latest
+    container_name: games-adminer
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
