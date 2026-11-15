@@ -23,12 +23,9 @@ for (const g of raw) {
 
 fs.writeFileSync('games_clean.json', JSON.stringify(games, null, 2));
 
-const studios = {};
-games.forEach(g => { studios[g.studio] = (studios[g.studio] || 0) + 1; });
-const top = Object.entries(studios).sort((a, b) => b[1] - a[1]).slice(0, 15);
-
+const studios = new Set(games.map(g => g.studio));
 console.log('Дубликати махнати:', raw.length - games.length);
 console.log('Остават:', games.length);
 console.log('Със Steam линк:', games.filter(g => g.steam_url).length);
-console.log('Различни студиа:', Object.keys(studios).length);
-console.log('Топ студиа:', top);
+console.log('С PEGI възраст:', games.filter(g => g.pegi_age).length);
+console.log('Различни студиа:', studios.size);

@@ -11,5 +11,12 @@ CREATE TABLE games (
     official_tags VARCHAR(255),
     content_explanation TEXT,
     steam_url VARCHAR(500),
-    epic_url VARCHAR(500)
+    epic_url VARCHAR(500),
+    summary TEXT,
+    genres VARCHAR(255),
+    platforms VARCHAR(500),
+    igdb_url VARCHAR(500),
+    screenshots JSON,
+    pegi_age TINYINT,
+    age_synopsis TEXT
 ) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
