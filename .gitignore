@@ -1,3 +1,4 @@
 node_modules/
 .env
 *.log
+games_raw.json

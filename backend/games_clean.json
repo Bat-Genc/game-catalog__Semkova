@@ -1,0 +1,3930 @@
+[
+  {
+    "title": "Grand Theft Auto V",
+    "studio": "Rockstar North",
+    "year": 2013,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+    "steam_url": "https://store.steampowered.com/app/271590/"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "studio": "CD Projekt RED",
+    "year": 2015,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarl.jpg",
+    "steam_url": "https://store.steampowered.com/app/292030/"
+  },
+  {
+    "title": "Portal 2",
+    "studio": "Valve",
+    "year": 2011,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.jpg",
+    "steam_url": "https://store.steampowered.com/app/620/"
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "studio": "Bethesda Game Studios",
+    "year": 2011,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocs1l.jpg",
+    "steam_url": "https://store.steampowered.com/app/72850/"
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "studio": "Rockstar North",
+    "year": 2004,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.jpg",
+    "steam_url": "https://store.steampowered.com/app/12250/"
+  },
+  {
+    "title": "Portal",
+    "studio": "Valve",
+    "year": 2007,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay61.jpg",
+    "steam_url": "https://store.steampowered.com/app/400/"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "studio": "Rockstar Games",
+    "year": 2018,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
+    "steam_url": "https://store.steampowered.com/app/1174180/"
+  },
+  {
+    "title": "God of War",
+    "studio": "Santa Monica Studio",
+    "year": 2018,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkt6.jpg",
+    "steam_url": "https://store.steampowered.com/app/1593500/"
+  },
+  {
+    "title": "The Last of Us",
+    "studio": "Naughty Dog",
+    "year": 2013,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Half-Life 2",
+    "studio": "Valve",
+    "year": 2004,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.jpg",
+    "steam_url": "https://store.steampowered.com/app/220/"
+  },
+  {
+    "title": "Assassin's Creed II",
+    "studio": "Ubisoft Montreal",
+    "year": 2009,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcf.jpg",
+    "steam_url": "https://store.steampowered.com/app/33230/"
+  },
+  {
+    "title": "BioShock",
+    "studio": "2K Boston",
+    "year": 2007,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.jpg",
+    "steam_url": "https://store.steampowered.com/app/7670/"
+  },
+  {
+    "title": "Grand Theft Auto: Vice City",
+    "studio": "Rockstar North",
+    "year": 2002,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.jpg",
+    "steam_url": "https://store.steampowered.com/app/12110/"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "studio": "Nintendo EPD Production Group No. 3",
+    "year": 2017,
+    "rating": 9.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Half-Life",
+    "studio": "Valve",
+    "year": 1998,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2ea.jpg",
+    "steam_url": "https://store.steampowered.com/app/70/"
+  },
+  {
+    "title": "Mass Effect 2",
+    "studio": "BioWare",
+    "year": 2010,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg",
+    "steam_url": "https://store.steampowered.com/app/2362420/"
+  },
+  {
+    "title": "Batman: Arkham City",
+    "studio": "Rocksteady Studios",
+    "year": 2011,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.jpg",
+    "steam_url": "https://store.steampowered.com/app/57400/"
+  },
+  {
+    "title": "BioShock Infinite",
+    "studio": "Irrational Games",
+    "year": 2013,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg",
+    "steam_url": "https://store.steampowered.com/app/8870/"
+  },
+  {
+    "title": "Uncharted 4: A Thief's End",
+    "studio": "Naughty Dog",
+    "year": 2016,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7h.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Batman: Arkham Asylum",
+    "studio": "Rocksteady Studios",
+    "year": 2009,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1voj.jpg",
+    "steam_url": "https://store.steampowered.com/app/35010/"
+  },
+  {
+    "title": "Red Dead Redemption",
+    "studio": "Rockstar North",
+    "year": 2010,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Mass Effect",
+    "studio": "BioWare",
+    "year": 2007,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7o.jpg",
+    "steam_url": "https://store.steampowered.com/app/17460/"
+  },
+  {
+    "title": "Horizon Zero Dawn",
+    "studio": "Guerrilla Games",
+    "year": 2017,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2una.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Fallout: New Vegas",
+    "studio": "Obsidian Entertainment",
+    "year": 2010,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u60.jpg",
+    "steam_url": "https://store.steampowered.com/app/22380/"
+  },
+  {
+    "title": "Tomb Raider",
+    "studio": "Crystal Dynamics",
+    "year": 2013,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbu.jpg",
+    "steam_url": "https://store.steampowered.com/app/203160/"
+  },
+  {
+    "title": "Elden Ring",
+    "studio": "FromSoftware",
+    "year": 2022,
+    "rating": 9.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
+    "steam_url": "https://store.steampowered.com/app/1245620/"
+  },
+  {
+    "title": "Hollow Knight",
+    "studio": "Team Cherry",
+    "year": 2017,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobfzp.jpg",
+    "steam_url": "https://store.steampowered.com/app/367520/"
+  },
+  {
+    "title": "Far Cry 3",
+    "studio": "Ubisoft Montreal",
+    "year": 2012,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpd.jpg",
+    "steam_url": "https://store.steampowered.com/app/220240/"
+  },
+  {
+    "title": "Uncharted 2: Among Thieves",
+    "studio": "Naughty Dog",
+    "year": 2009,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnb.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Marvel's Spider-Man",
+    "studio": "Insomniac Games",
+    "year": 2018,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r77.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1998,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nnx.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Minecraft: Java Edition",
+    "studio": "Mojang Studios",
+    "year": 2011,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa77e.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario 64",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1996,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co721v.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario World",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1990,
+    "rating": 9.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lo8.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dark Souls III",
+    "studio": "FromSoftware",
+    "year": 2016,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9ed.jpg",
+    "steam_url": "https://store.steampowered.com/app/374320/"
+  },
+  {
+    "title": "Doom",
+    "studio": "id Software",
+    "year": 2016,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nc7.jpg",
+    "steam_url": "https://store.steampowered.com/app/430910/"
+  },
+  {
+    "title": "Dishonored",
+    "studio": "Arkane Studios",
+    "year": 2012,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabgu.jpg",
+    "steam_url": "https://store.steampowered.com/app/217980/"
+  },
+  {
+    "title": "Grand Theft Auto IV",
+    "studio": "Rockstar North",
+    "year": 2008,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.jpg",
+    "steam_url": "https://store.steampowered.com/app/12210/"
+  },
+  {
+    "title": "Undertale",
+    "studio": "tobyfox",
+    "year": 2015,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1t2.jpg",
+    "steam_url": "https://store.steampowered.com/app/391540/"
+  },
+  {
+    "title": "Bloodborne",
+    "studio": "FromSoftware",
+    "year": 2015,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob99l.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "studio": "Nintendo EPD Production Group No. 8",
+    "year": 2017,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Life Is Strange",
+    "studio": "DON'T NOD",
+    "year": 2015,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8e.jpg",
+    "steam_url": "https://store.steampowered.com/app/319630/"
+  },
+  {
+    "title": "Borderlands 2",
+    "studio": "Gearbox Software",
+    "year": 2012,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ba3.jpg",
+    "steam_url": "https://store.steampowered.com/app/379880/"
+  },
+  {
+    "title": "Mass Effect 3",
+    "studio": "BioWare",
+    "year": 2012,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7q.jpg",
+    "steam_url": "https://store.steampowered.com/app/1238020/"
+  },
+  {
+    "title": "Call of Duty 4: Modern Warfare",
+    "studio": "Infinity Ward",
+    "year": 2007,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wko.jpg",
+    "steam_url": "https://store.steampowered.com/app/7940/"
+  },
+  {
+    "title": "Stardew Valley",
+    "studio": "ConcernedApe",
+    "year": 2016,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa93h.jpg",
+    "steam_url": "https://store.steampowered.com/app/413150/"
+  },
+  {
+    "title": "The Last of Us Part II",
+    "studio": "Naughty Dog",
+    "year": 2020,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ziw.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Assassin's Creed IV Black Flag",
+    "studio": "Ubisoft Montreal",
+    "year": 2013,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qfn.jpg",
+    "steam_url": "https://store.steampowered.com/app/242050/"
+  },
+  {
+    "title": "Max Payne",
+    "studio": "Remedy Entertainment",
+    "year": 2001,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wb2.jpg",
+    "steam_url": "https://store.steampowered.com/app/12140/"
+  },
+  {
+    "title": "Assassin's Creed",
+    "studio": "Ubisoft Montreal",
+    "year": 2007,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rrw.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Hades",
+    "studio": "Supergiant Games",
+    "year": 2020,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9kr.jpg",
+    "steam_url": "https://store.steampowered.com/app/1145360/"
+  },
+  {
+    "title": "Fallout 3",
+    "studio": "Bethesda Game Studios",
+    "year": 2008,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ycw.jpg",
+    "steam_url": "https://store.steampowered.com/app/22300/"
+  },
+  {
+    "title": "Assassin's Creed Brotherhood",
+    "studio": "Ubisoft Montreal",
+    "year": 2010,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocdky.jpg",
+    "steam_url": "https://store.steampowered.com/app/48190/"
+  },
+  {
+    "title": "Fallout 4",
+    "studio": "Bethesda Game Studios",
+    "year": 2015,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc6.jpg",
+    "steam_url": "https://store.steampowered.com/app/379850/"
+  },
+  {
+    "title": "The Walking Dead",
+    "studio": "Telltale Games",
+    "year": 2012,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2j1g.jpg",
+    "steam_url": "https://store.steampowered.com/app/207610/"
+  },
+  {
+    "title": "Dragon Age: Origins",
+    "studio": "BioWare Edmonton",
+    "year": 2009,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mvs.jpg",
+    "steam_url": "https://store.steampowered.com/app/17450/"
+  },
+  {
+    "title": "Super Mario Bros. 3",
+    "studio": "Nintendo R&D4",
+    "year": 1988,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ozx.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dark Souls",
+    "studio": "FromSoftware",
+    "year": 2011,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x78.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1991,
+    "rating": 9.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vzn.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Metal Gear Solid",
+    "studio": "Konami Computer Entertainment Japan",
+    "year": 1998,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpak.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Last of Us Remastered",
+    "studio": "Naughty Dog",
+    "year": 2014,
+    "rating": 9.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zks.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Resident Evil 4",
+    "studio": "Capcom Production Studio 4",
+    "year": 2005,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wk8.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Inside",
+    "studio": "Playdead",
+    "year": 2016,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fca.jpg",
+    "steam_url": "https://store.steampowered.com/app/304430/"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "studio": "CD Projekt RED",
+    "year": 2020,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaih8.jpg",
+    "steam_url": "https://store.steampowered.com/app/1091500/"
+  },
+  {
+    "title": "Warcraft III: Reign of Chaos",
+    "studio": "Blizzard Entertainment",
+    "year": 2002,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xuq.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Baldur's Gate III",
+    "studio": "Larian Studios",
+    "year": 2023,
+    "rating": 9.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co670h.jpg",
+    "steam_url": "https://store.steampowered.com/app/1086940/"
+  },
+  {
+    "title": "Final Fantasy VII",
+    "studio": "Square Product Development Division 1",
+    "year": 1997,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kx2.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Limbo",
+    "studio": "Playdead",
+    "year": 2010,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrs.jpg",
+    "steam_url": "https://store.steampowered.com/app/48000/"
+  },
+  {
+    "title": "Grand Theft Auto III",
+    "studio": "DMA Design",
+    "year": 2001,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb8.jpg",
+    "steam_url": "https://store.steampowered.com/app/12100/"
+  },
+  {
+    "title": "Diablo II",
+    "studio": "Blizzard North",
+    "year": 2000,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3gfq.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "NieR:Automata",
+    "studio": "PlatinumGames",
+    "year": 2017,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pcj.jpg",
+    "steam_url": "https://store.steampowered.com/app/524220/"
+  },
+  {
+    "title": "The Elder Scrolls IV: Oblivion",
+    "studio": "Bethesda Game Studios",
+    "year": 2006,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fpz.jpg",
+    "steam_url": "https://store.steampowered.com/app/22330/"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 2",
+    "studio": "Infinity Ward",
+    "year": 2009,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3cwt.jpg",
+    "steam_url": "https://store.steampowered.com/app/10180/"
+  },
+  {
+    "title": "Mafia",
+    "studio": "Illusion Softworks",
+    "year": 2002,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrt.jpg",
+    "steam_url": "https://store.steampowered.com/app/40990/"
+  },
+  {
+    "title": "Ori and the Blind Forest",
+    "studio": "Moon Studios",
+    "year": 2015,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y41.jpg",
+    "steam_url": "https://store.steampowered.com/app/261570/"
+  },
+  {
+    "title": "Batman: Arkham Knight",
+    "studio": "Rocksteady Studios",
+    "year": 2015,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coagib.jpg",
+    "steam_url": "https://store.steampowered.com/app/208650/"
+  },
+  {
+    "title": "Assassin's Creed III",
+    "studio": "Ubisoft Montreal",
+    "year": 2012,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xii.jpg",
+    "steam_url": "https://store.steampowered.com/app/208480/"
+  },
+  {
+    "title": "Star Wars: Knights of the Old Republic",
+    "studio": "BioWare",
+    "year": 2003,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmz.jpg",
+    "steam_url": "https://store.steampowered.com/app/32370/"
+  },
+  {
+    "title": "Celeste",
+    "studio": "Extremely OK Games",
+    "year": 2018,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9dh.jpg",
+    "steam_url": "https://store.steampowered.com/app/504230/"
+  },
+  {
+    "title": "Uncharted 3: Drake's Deception",
+    "studio": "Naughty Dog",
+    "year": 2011,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tp8.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Half-Life 2: Episode Two",
+    "studio": "Valve",
+    "year": 2007,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mw2.jpg",
+    "steam_url": "https://store.steampowered.com/app/420/"
+  },
+  {
+    "title": "Resident Evil 2",
+    "studio": "Capcom Development Division 1",
+    "year": 2019,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ir3.jpg",
+    "steam_url": "https://store.steampowered.com/app/883710/"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "studio": "FromSoftware",
+    "year": 2019,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.jpg",
+    "steam_url": "https://store.steampowered.com/app/814380/"
+  },
+  {
+    "title": "Middle-earth: Shadow of Mordor",
+    "studio": "Monolith Productions",
+    "year": 2014,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20pd.jpg",
+    "steam_url": "https://store.steampowered.com/app/241930/"
+  },
+  {
+    "title": "The Witcher 2: Assassins of Kings",
+    "studio": "CD Projekt RED",
+    "year": 2011,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wy4.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Chrono Trigger",
+    "studio": "Bird Studio",
+    "year": 1995,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3plw.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Rise of the Tomb Raider",
+    "studio": "Crystal Dynamics",
+    "year": 2015,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rqa.jpg",
+    "steam_url": "https://store.steampowered.com/app/391220/"
+  },
+  {
+    "title": "Call of Duty: Black Ops",
+    "studio": "Treyarch",
+    "year": 2010,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wkl.jpg",
+    "steam_url": "https://store.steampowered.com/app/42710/"
+  },
+  {
+    "title": "Counter-Strike: Global Offensive",
+    "studio": "Valve",
+    "year": 2012,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc32n.jpg",
+    "steam_url": "https://store.steampowered.com/app/4465480/"
+  },
+  {
+    "title": "Wolfenstein: The New Order",
+    "studio": "MachineGames",
+    "year": 2014,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21c0.jpg",
+    "steam_url": "https://store.steampowered.com/app/201810/"
+  },
+  {
+    "title": "Shadow of the Colossus",
+    "studio": "Team Ico",
+    "year": 2005,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ozz.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario Bros.",
+    "studio": "Nintendo R&D4",
+    "year": 1985,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pib.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Detroit: Become Human",
+    "studio": "Quantic Dream",
+    "year": 2018,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocot9.jpg",
+    "steam_url": "https://store.steampowered.com/app/1222140/"
+  },
+  {
+    "title": "Super Mario Galaxy",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2007,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ro.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "studio": "Konami Computer Entertainment Japan",
+    "year": 2004,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ei5.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Hotline Miami",
+    "studio": "Dennaton Games",
+    "year": 2012,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vqp.jpg",
+    "steam_url": "https://store.steampowered.com/app/219150/"
+  },
+  {
+    "title": "Mafia II",
+    "studio": "2K Czech",
+    "year": 2010,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n13.jpg",
+    "steam_url": "https://store.steampowered.com/app/50130/"
+  },
+  {
+    "title": "StarCraft",
+    "studio": "Blizzard Entertainment",
+    "year": 1998,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n6m.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dead Space",
+    "studio": "EA Redwood Shores",
+    "year": 2008,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g7w.jpg",
+    "steam_url": "https://store.steampowered.com/app/1444000/"
+  },
+  {
+    "title": "Assassin's Creed Revelations",
+    "studio": "Ubisoft Montreal",
+    "year": 2011,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xih.jpg",
+    "steam_url": "https://store.steampowered.com/app/201870/"
+  },
+  {
+    "title": "South Park: The Stick of Truth",
+    "studio": "Obsidian Entertainment",
+    "year": 2014,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v8x.jpg",
+    "steam_url": "https://store.steampowered.com/app/213670/"
+  },
+  {
+    "title": "Rocket League",
+    "studio": "Psyonix",
+    "year": 2015,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyri.jpg",
+    "steam_url": "https://store.steampowered.com/app/252950/"
+  },
+  {
+    "title": "Silent Hill 2",
+    "studio": "Team Silent",
+    "year": 2001,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyg.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Firewatch",
+    "studio": "Campo Santo",
+    "year": 2016,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1ts.jpg",
+    "steam_url": "https://store.steampowered.com/app/383870/"
+  },
+  {
+    "title": "The Wolf Among Us",
+    "studio": "Telltale Games",
+    "year": 2013,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcy.jpg",
+    "steam_url": "https://store.steampowered.com/app/250320/"
+  },
+  {
+    "title": "Disco Elysium",
+    "studio": "ZA/UM",
+    "year": 2019,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sfj.jpg",
+    "steam_url": "https://store.steampowered.com/app/632470/"
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "studio": "Turtle Rock Studios",
+    "year": 2009,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y2f.jpg",
+    "steam_url": "https://store.steampowered.com/app/550/"
+  },
+  {
+    "title": "Uncharted: Drake's Fortune",
+    "studio": "Naughty Dog",
+    "year": 2007,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tp7.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "God of War Ragnarök",
+    "studio": "Santa Monica Studio",
+    "year": 2022,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3d.jpg",
+    "steam_url": "https://store.steampowered.com/app/2322010/"
+  },
+  {
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "studio": "Kojima Productions",
+    "year": 2015,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v85.jpg",
+    "steam_url": "https://store.steampowered.com/app/287700/"
+  },
+  {
+    "title": "Journey",
+    "studio": "ThatGameCompany",
+    "year": 2012,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9lk.jpg",
+    "steam_url": "https://store.steampowered.com/app/638230/"
+  },
+  {
+    "title": "Overwatch",
+    "studio": "Blizzard Entertainment",
+    "year": 2016,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcb.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Far Cry 4",
+    "studio": "Ubisoft Montreal",
+    "year": 2014,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2npa.jpg",
+    "steam_url": "https://store.steampowered.com/app/298110/"
+  },
+  {
+    "title": "It Takes Two",
+    "studio": "Hazelight Studios",
+    "year": 2021,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob22v.jpg",
+    "steam_url": "https://store.steampowered.com/app/1426210/"
+  },
+  {
+    "title": "Watch Dogs",
+    "studio": "Ubisoft Montreal",
+    "year": 2014,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2p5w.jpg",
+    "steam_url": "https://store.steampowered.com/app/243470/"
+  },
+  {
+    "title": "Max Payne 3",
+    "studio": "Rockstar New England",
+    "year": 2012,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjo.jpg",
+    "steam_url": "https://store.steampowered.com/app/204100/"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 3",
+    "studio": "Sledgehammer Games",
+    "year": 2011,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wkn.jpg",
+    "steam_url": "https://store.steampowered.com/app/42690/"
+  },
+  {
+    "title": "Sid Meier's Civilization V",
+    "studio": "Firaxis Games",
+    "year": 2010,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20up.jpg",
+    "steam_url": "https://store.steampowered.com/app/8930/"
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "studio": "Sucker Punch Productions",
+    "year": 2020,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2crj.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "StarCraft II: Wings of Liberty",
+    "studio": "Blizzard Entertainment",
+    "year": 2010,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnn.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Heavy Rain",
+    "studio": "Quantic Dream",
+    "year": 2010,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaajv.jpg",
+    "steam_url": "https://store.steampowered.com/app/960910/"
+  },
+  {
+    "title": "Resident Evil 7: Biohazard",
+    "studio": "Capcom Development Division 1",
+    "year": 2017,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtwh.jpg",
+    "steam_url": "https://store.steampowered.com/app/418370/"
+  },
+  {
+    "title": "Persona 5",
+    "studio": "P Studio",
+    "year": 2016,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r76.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Assassin's Creed Origins",
+    "studio": "Ubisoft Montreal",
+    "year": 2017,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbe.jpg",
+    "steam_url": "https://store.steampowered.com/app/582160/"
+  },
+  {
+    "title": "BioShock 2",
+    "studio": "2K Marin",
+    "year": 2010,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mlj.jpg",
+    "steam_url": "https://store.steampowered.com/app/8850/"
+  },
+  {
+    "title": "Hellblade: Senua's Sacrifice",
+    "studio": "Ninja Theory",
+    "year": 2017,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7l.jpg",
+    "steam_url": "https://store.steampowered.com/app/414340/"
+  },
+  {
+    "title": "Super Smash Bros. Melee",
+    "studio": "HAL Laboratory",
+    "year": 2001,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21yv.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Final Fantasy X",
+    "studio": "Square Product Development Division 1",
+    "year": 2001,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tr1.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dead Space 2",
+    "studio": "Visceral Games",
+    "year": 2011,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20xq.jpg",
+    "steam_url": "https://store.steampowered.com/app/47780/"
+  },
+  {
+    "title": "Dragon Age: Inquisition",
+    "studio": "BioWare Edmonton",
+    "year": 2014,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mvy.jpg",
+    "steam_url": "https://store.steampowered.com/app/1222690/"
+  },
+  {
+    "title": "Super Metroid",
+    "studio": "Nintendo R&D1",
+    "year": 1994,
+    "rating": 9.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5osy.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Battlefield 3",
+    "studio": "EA Digital Illusions CE",
+    "year": 2011,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xbu.jpg",
+    "steam_url": "https://store.steampowered.com/app/1238820/"
+  },
+  {
+    "title": "Dying Light",
+    "studio": "Techland",
+    "year": 2015,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yq.jpg",
+    "steam_url": "https://store.steampowered.com/app/239140/"
+  },
+  {
+    "title": "Call of Duty 2",
+    "studio": "Infinity Ward",
+    "year": 2005,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3acf.jpg",
+    "steam_url": "https://store.steampowered.com/app/2630/"
+  },
+  {
+    "title": "Max Payne 2: The Fall of Max Payne",
+    "studio": "Remedy Entertainment",
+    "year": 2003,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lcl.jpg",
+    "steam_url": "https://store.steampowered.com/app/12150/"
+  },
+  {
+    "title": "Terraria",
+    "studio": "Re-Logic",
+    "year": 2011,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaamg.jpg",
+    "steam_url": "https://store.steampowered.com/app/105600/"
+  },
+  {
+    "title": "The Legend of Zelda: The Wind Waker",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2002,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ohz.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Star Wars Jedi: Fallen Order",
+    "studio": "Respawn Entertainment",
+    "year": 2019,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.jpg",
+    "steam_url": "https://store.steampowered.com/app/367460/"
+  },
+  {
+    "title": "Deus Ex: Human Revolution",
+    "studio": "Eidos Montréal",
+    "year": 2011,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rd2.jpg",
+    "steam_url": "https://store.steampowered.com/app/28050/"
+  },
+  {
+    "title": "God of War II",
+    "studio": "SCE Santa Monica Studio",
+    "year": 2007,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dik.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "L.A. Noire",
+    "studio": "Team Bondi",
+    "year": 2011,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ldn.jpg",
+    "steam_url": "https://store.steampowered.com/app/110800/"
+  },
+  {
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "studio": "Konami Computer Entertainment Japan",
+    "year": 2001,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5e1c.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Borderlands",
+    "studio": "Gearbox Software",
+    "year": 2009,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20tx.jpg",
+    "steam_url": "https://store.steampowered.com/app/8980/"
+  },
+  {
+    "title": "Alan Wake",
+    "studio": "Remedy Entertainment",
+    "year": 2010,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dft.jpg",
+    "steam_url": "https://store.steampowered.com/app/108710/"
+  },
+  {
+    "title": "Need for Speed: Most Wanted",
+    "studio": "EA Black Box",
+    "year": 2005,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209j.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Age of Empires II: The Age of Kings",
+    "studio": "Ensemble Studios",
+    "year": 1999,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55xo.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "League of Legends",
+    "studio": "Riot Games",
+    "year": 2009,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc99o.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "What Remains of Edith Finch",
+    "studio": "Giant Sparrow",
+    "year": 2017,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbj.jpg",
+    "steam_url": "https://store.steampowered.com/app/501300/"
+  },
+  {
+    "title": "Fortnite",
+    "studio": "Epic Games",
+    "year": 2020,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxbi.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "studio": "Sandfall Interactive",
+    "year": 2025,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.jpg",
+    "steam_url": "https://store.steampowered.com/app/1903340/"
+  },
+  {
+    "title": "The Stanley Parable",
+    "studio": "Galactic Cafe",
+    "year": 2013,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rc9.jpg",
+    "steam_url": "https://store.steampowered.com/app/247750/"
+  },
+  {
+    "title": "Assassin's Creed Odyssey",
+    "studio": "Ubisoft Québec",
+    "year": 2018,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nul.jpg",
+    "steam_url": "https://store.steampowered.com/app/379050/"
+  },
+  {
+    "title": "Call of Duty: World at War",
+    "studio": "Treyarch",
+    "year": 2008,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wl8.jpg",
+    "steam_url": "https://store.steampowered.com/app/10090/"
+  },
+  {
+    "title": "Assassin's Creed Unity",
+    "studio": "Ubisoft Montreal",
+    "year": 2014,
+    "rating": 7.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xiq.jpg",
+    "steam_url": "https://store.steampowered.com/app/289650/"
+  },
+  {
+    "title": "Control",
+    "studio": "Remedy Entertainment",
+    "year": 2019,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2evj.jpg",
+    "steam_url": "https://store.steampowered.com/app/870780/"
+  },
+  {
+    "title": "Mirror's Edge",
+    "studio": "EA Digital Illusions CE",
+    "year": 2008,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5gbw.jpg",
+    "steam_url": "https://store.steampowered.com/app/17410/"
+  },
+  {
+    "title": "Final Fantasy IX",
+    "studio": "Square USA",
+    "year": 2000,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2unc.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "studio": "Sora",
+    "year": 2018,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2255.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Diablo III",
+    "studio": "Blizzard Entertainment",
+    "year": 2012,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l1u.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario Galaxy 2",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2010,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tl.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "studio": "Nintendo EPD Production Group No. 3",
+    "year": 2023,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vmg.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Cuphead",
+    "studio": "Studio MDHR",
+    "year": 2017,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62ao.jpg",
+    "steam_url": "https://store.steampowered.com/app/268910/"
+  },
+  {
+    "title": "Call of Duty: Black Ops II",
+    "studio": "Treyarch",
+    "year": 2012,
+    "rating": 7.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wkv.jpg",
+    "steam_url": "https://store.steampowered.com/app/202990/"
+  },
+  {
+    "title": "Tetris",
+    "studio": "Nintendo",
+    "year": 1989,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ufk.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Halo: Combat Evolved",
+    "studio": "Bungie",
+    "year": 2001,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r2r.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Spec Ops: The Line",
+    "studio": "Yager Development",
+    "year": 2012,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2acb.jpg",
+    "steam_url": "https://store.steampowered.com/app/50300/"
+  },
+  {
+    "title": "Death Stranding",
+    "studio": "Kojima Productions",
+    "year": 2019,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocsvh.jpg",
+    "steam_url": "https://store.steampowered.com/app/1190460/"
+  },
+  {
+    "title": "Battlefield 1",
+    "studio": "EA Digital Illusions CE",
+    "year": 2016,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n9d.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Battlefield 4",
+    "studio": "EA Digital Illusions CE",
+    "year": 2013,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmf.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "World of Warcraft",
+    "studio": "Blizzard Entertainment",
+    "year": 2004,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7z.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Fallout 2",
+    "studio": "Black Isle Studios",
+    "year": 1998,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ado.jpg",
+    "steam_url": "https://store.steampowered.com/app/38410/"
+  },
+  {
+    "title": "Team Fortress 2",
+    "studio": "Valve",
+    "year": 2007,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6rzl.jpg",
+    "steam_url": "https://store.steampowered.com/app/440/"
+  },
+  {
+    "title": "Outer Wilds",
+    "studio": "Mobius Digital",
+    "year": 2019,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg",
+    "steam_url": "https://store.steampowered.com/app/753640/"
+  },
+  {
+    "title": "Metro 2033",
+    "studio": "4A Games",
+    "year": 2010,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctol.jpg",
+    "steam_url": "https://store.steampowered.com/app/43110/"
+  },
+  {
+    "title": "Half-Life 2: Episode One",
+    "studio": "Valve",
+    "year": 2006,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9c5r.jpg",
+    "steam_url": "https://store.steampowered.com/app/380/"
+  },
+  {
+    "title": "Metroid Prime",
+    "studio": "Retro Studios",
+    "year": 2002,
+    "rating": 9.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w4w.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Need for Speed: Underground 2",
+    "studio": "EA Black Box",
+    "year": 2004,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209h.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Far Cry 5",
+    "studio": "Ubisoft Montreal",
+    "year": 2018,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21a6.jpg",
+    "steam_url": "https://store.steampowered.com/app/379060/"
+  },
+  {
+    "title": "The Legend of Zelda: Majora's Mask",
+    "studio": "Nintendo EAD Software Development Group No.3",
+    "year": 2000,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3pah.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Titanfall 2",
+    "studio": "Respawn Entertainment",
+    "year": 2016,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/fhbeilnghyhhmjqhinqa.jpg",
+    "steam_url": "https://store.steampowered.com/app/1237970/"
+  },
+  {
+    "title": "Dark Souls II",
+    "studio": "FromSoftware",
+    "year": 2014,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobysr.jpg",
+    "steam_url": "https://store.steampowered.com/app/236430/"
+  },
+  {
+    "title": "Kingdom Hearts II",
+    "studio": "Square Enix Product Development Division 1",
+    "year": 2005,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30t1.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Elder Scrolls III: Morrowind",
+    "studio": "Bethesda Game Studios",
+    "year": 2002,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2knd.jpg",
+    "steam_url": "https://store.steampowered.com/app/22320/"
+  },
+  {
+    "title": "Halo 3",
+    "studio": "Bungie",
+    "year": 2007,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xhc.jpg",
+    "steam_url": "https://store.steampowered.com/app/1064271/"
+  },
+  {
+    "title": "Call of Duty",
+    "studio": "Infinity Ward",
+    "year": 2003,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n19.jpg",
+    "steam_url": "https://store.steampowered.com/app/2620/"
+  },
+  {
+    "title": "Assassin's Creed Syndicate",
+    "studio": "Ubisoft Québec",
+    "year": 2015,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xis.jpg",
+    "steam_url": "https://store.steampowered.com/app/368500/"
+  },
+  {
+    "title": "The Walking Dead: Season Two",
+    "studio": "Telltale Games",
+    "year": 2013,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2k36.jpg",
+    "steam_url": "https://store.steampowered.com/app/261030/"
+  },
+  {
+    "title": "Castlevania: Symphony of the Night",
+    "studio": "Konami Computer Entertainment Tokyo",
+    "year": 1997,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co53m8.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Meat Boy",
+    "studio": "Team Meat",
+    "year": 2010,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co276m.jpg",
+    "steam_url": "https://store.steampowered.com/app/40800/"
+  },
+  {
+    "title": "Need for Speed: Underground",
+    "studio": "EA Black Box",
+    "year": 2003,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209g.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Witcher",
+    "studio": "CD Projekt RED",
+    "year": 2007,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xrx.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Batman: Arkham Origins",
+    "studio": "WB Games Montréal",
+    "year": 2013,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmd.jpg",
+    "steam_url": "https://store.steampowered.com/app/209000/"
+  },
+  {
+    "title": "Deus Ex",
+    "studio": "Ion Storm",
+    "year": 2000,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocc3x.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Resident Evil 5",
+    "studio": "Capcom",
+    "year": 2009,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtgs.jpg",
+    "steam_url": "https://store.steampowered.com/app/21690/"
+  },
+  {
+    "title": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+    "studio": "Obsidian Entertainment",
+    "year": 2004,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrj.jpg",
+    "steam_url": "https://store.steampowered.com/app/208580/"
+  },
+  {
+    "title": "The Last of Us Part I",
+    "studio": "Naughty Dog",
+    "year": 2022,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1gq.jpg",
+    "steam_url": "https://store.steampowered.com/app/1888930/"
+  },
+  {
+    "title": "A Plague Tale: Innocence",
+    "studio": "Asobo Studio",
+    "year": 2019,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lat.jpg",
+    "steam_url": "https://store.steampowered.com/app/752590/"
+  },
+  {
+    "title": "Dishonored 2",
+    "studio": "Arkane Studios",
+    "year": 2016,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e29.jpg",
+    "steam_url": "https://store.steampowered.com/app/665850/"
+  },
+  {
+    "title": "God of War III",
+    "studio": "SCE Santa Monica Studio",
+    "year": 2010,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3koi.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Brothers: A Tale of Two Sons",
+    "studio": "Starbreeze Studios",
+    "year": 2013,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rro.jpg",
+    "steam_url": "https://store.steampowered.com/app/225080/"
+  },
+  {
+    "title": "Crysis",
+    "studio": "Crytek Frankfurt",
+    "year": 2007,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2on1.jpg",
+    "steam_url": "https://store.steampowered.com/app/17300/"
+  },
+  {
+    "title": "Beyond: Two Souls",
+    "studio": "Quantic Dream",
+    "year": 2013,
+    "rating": 7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8r4w.jpg",
+    "steam_url": "https://store.steampowered.com/app/960990/"
+  },
+  {
+    "title": "Doom Eternal",
+    "studio": "id Software",
+    "year": 2020,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5n.jpg",
+    "steam_url": "https://store.steampowered.com/app/782330/"
+  },
+  {
+    "title": "Prince of Persia: The Sands of Time",
+    "studio": "Ubisoft Montreal",
+    "year": 2003,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4t8l.jpg",
+    "steam_url": "https://store.steampowered.com/app/13600/"
+  },
+  {
+    "title": "Dota 2",
+    "studio": "Valve",
+    "year": 2013,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod313.jpg",
+    "steam_url": "https://store.steampowered.com/app/570/"
+  },
+  {
+    "title": "Left 4 Dead",
+    "studio": "Valve",
+    "year": 2008,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrm.jpg",
+    "steam_url": "https://store.steampowered.com/app/500/"
+  },
+  {
+    "title": "Final Fantasy III",
+    "studio": "Square",
+    "year": 1994,
+    "rating": 9.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaq5k.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Counter-Strike",
+    "studio": "Valve",
+    "year": 2000,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc32b.jpg",
+    "steam_url": "https://store.steampowered.com/app/10/"
+  },
+  {
+    "title": "Watch Dogs 2",
+    "studio": "Ubisoft Montreal",
+    "year": 2016,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2p3j.jpg",
+    "steam_url": "https://store.steampowered.com/app/447040/"
+  },
+  {
+    "title": "Bastion",
+    "studio": "Supergiant Games",
+    "year": 2011,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qlj.jpg",
+    "steam_url": "https://store.steampowered.com/app/107100/"
+  },
+  {
+    "title": "Little Nightmares",
+    "studio": "Tarsier Studios",
+    "year": 2017,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rdi.jpg",
+    "steam_url": "https://store.steampowered.com/app/424840/"
+  },
+  {
+    "title": "Stray",
+    "studio": "BlueTwelve Studio",
+    "year": 2022,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tt2.jpg",
+    "steam_url": "https://store.steampowered.com/app/1332010/"
+  },
+  {
+    "title": "Metal Gear Solid 4: Guns of the Patriots",
+    "studio": "Kojima Productions",
+    "year": 2008,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5eju.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Saints Row: The Third",
+    "studio": "Volition",
+    "year": 2011,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2634.jpg",
+    "steam_url": "https://store.steampowered.com/app/55230/"
+  },
+  {
+    "title": "Call of Duty: Ghosts",
+    "studio": "Neversoft Entertainment",
+    "year": 2013,
+    "rating": 6.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b15.jpg",
+    "steam_url": "https://store.steampowered.com/app/209160/"
+  },
+  {
+    "title": "Until Dawn",
+    "studio": "Supermassive Games",
+    "year": 2015,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2s5q.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Metro: Last Light",
+    "studio": "4A Games",
+    "year": 2013,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h9d.jpg",
+    "steam_url": "https://store.steampowered.com/app/222801/"
+  },
+  {
+    "title": "Star Wars: Battlefront II",
+    "studio": "Pandemic Studios",
+    "year": 2005,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1g4.jpg",
+    "steam_url": "https://store.steampowered.com/app/6060/"
+  },
+  {
+    "title": "Alien: Isolation",
+    "studio": "The Creative Assembly",
+    "year": 2014,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vzu.jpg",
+    "steam_url": "https://store.steampowered.com/app/214490/"
+  },
+  {
+    "title": "The Legend of Zelda",
+    "studio": "Nintendo R&D4",
+    "year": 1986,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uii.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Papers, Please",
+    "studio": "Lucas Pope",
+    "year": 2013,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vep.jpg",
+    "steam_url": "https://store.steampowered.com/app/239030/"
+  },
+  {
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "studio": "Nintendo EAD Software Development Group No.3",
+    "year": 2013,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p0j.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Hearthstone",
+    "studio": "Blizzard Entertainment",
+    "year": 2014,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sh2.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario World 2: Yoshi's Island",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1995,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kn9.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "studio": "New World Computing",
+    "year": 1999,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a47.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Outlast",
+    "studio": "Red Barrels",
+    "year": 2013,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yat.jpg",
+    "steam_url": "https://store.steampowered.com/app/238320/"
+  },
+  {
+    "title": "Cities: Skylines",
+    "studio": "Colossal Order",
+    "year": 2015,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaas0.jpg",
+    "steam_url": "https://store.steampowered.com/app/255710/"
+  },
+  {
+    "title": "Crash Bandicoot",
+    "studio": "Naughty Dog",
+    "year": 1996,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co555l.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Prey",
+    "studio": "Arkane Austin",
+    "year": 2017,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9aoh.jpg",
+    "steam_url": "https://store.steampowered.com/app/480490/"
+  },
+  {
+    "title": "Mass Effect Trilogy",
+    "studio": "BioWare",
+    "year": 2012,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a7a.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "studio": "Avalanche Software",
+    "year": 2023,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaav6.jpg",
+    "steam_url": "https://store.steampowered.com/app/990080/"
+  },
+  {
+    "title": "Shadow of the Tomb Raider",
+    "studio": "Eidos Montréal",
+    "year": 2018,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vcn.jpg",
+    "steam_url": "https://store.steampowered.com/app/750920/"
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess",
+    "studio": "Nintendo EAD Software Development Group No.3",
+    "year": 2006,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mtv.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dragon Age II",
+    "studio": "BioWare Edmonton",
+    "year": 2011,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mw1.jpg",
+    "steam_url": "https://store.steampowered.com/app/1238040/"
+  },
+  {
+    "title": "Metro Exodus",
+    "studio": "4A Games",
+    "year": 2019,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaroh.jpg",
+    "steam_url": "https://store.steampowered.com/app/379460/"
+  },
+  {
+    "title": "Halo 2",
+    "studio": "Bungie",
+    "year": 2004,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x77.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Hitman: Absolution",
+    "studio": "IO Interactive",
+    "year": 2012,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrc.jpg",
+    "steam_url": "https://store.steampowered.com/app/965560/"
+  },
+  {
+    "title": "Persona 5 Royal",
+    "studio": "P Studio",
+    "year": 2019,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coclf1.jpg",
+    "steam_url": "https://store.steampowered.com/app/1687950/"
+  },
+  {
+    "title": "Mario Kart 8",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2014,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213q.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "A Way Out",
+    "studio": "Hazelight Studios",
+    "year": 2018,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vca.jpg",
+    "steam_url": "https://store.steampowered.com/app/1222700/"
+  },
+  {
+    "title": "Soma",
+    "studio": "Frictional Games",
+    "year": 2015,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a20.jpg",
+    "steam_url": "https://store.steampowered.com/app/282140/"
+  },
+  {
+    "title": "Sleeping Dogs",
+    "studio": "United Front Games",
+    "year": 2012,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e3z.jpg",
+    "steam_url": "https://store.steampowered.com/app/202170/"
+  },
+  {
+    "title": "Genshin Impact",
+    "studio": "HoYoverse",
+    "year": 2020,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa9dy.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Halo: Reach",
+    "studio": "Bungie",
+    "year": 2010,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xha.jpg",
+    "steam_url": "https://store.steampowered.com/app/1064220/"
+  },
+  {
+    "title": "Plants vs. Zombies",
+    "studio": "PopCap Games",
+    "year": 2009,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69id.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Age of Empires",
+    "studio": "Ensemble Studios",
+    "year": 1997,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zsh.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Apex Legends",
+    "studio": "Respawn Entertainment",
+    "year": 2019,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd3d.jpg",
+    "steam_url": "https://store.steampowered.com/app/1172470/"
+  },
+  {
+    "title": "No Man's Sky",
+    "studio": "Hello Games",
+    "year": 2016,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocnm2.jpg",
+    "steam_url": "https://store.steampowered.com/app/275850/"
+  },
+  {
+    "title": "The Sims 4",
+    "studio": "The Sims Studio",
+    "year": 2014,
+    "rating": 7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3h3l.jpg",
+    "steam_url": "https://store.steampowered.com/app/1222670/"
+  },
+  {
+    "title": "Fallout: A Post Nuclear Role Playing Game",
+    "studio": "Interplay Entertainment",
+    "year": 1997,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ybn.jpg",
+    "steam_url": "https://store.steampowered.com/app/38400/"
+  },
+  {
+    "title": "Rayman Legends",
+    "studio": "Ubisoft Montpellier",
+    "year": 2013,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ma8.jpg",
+    "steam_url": "https://store.steampowered.com/app/242550/"
+  },
+  {
+    "title": "Wolfenstein II: The New Colossus",
+    "studio": "MachineGames",
+    "year": 2017,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21c5.jpg",
+    "steam_url": "https://store.steampowered.com/app/612880/"
+  },
+  {
+    "title": "Battlefield: Bad Company 2",
+    "studio": "EA Digital Illusions CE",
+    "year": 2010,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xbi.jpg",
+    "steam_url": "https://store.steampowered.com/app/24960/"
+  },
+  {
+    "title": "Destiny 2",
+    "studio": "Bungie",
+    "year": 2017,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc89g.jpg",
+    "steam_url": "https://store.steampowered.com/app/1085660/"
+  },
+  {
+    "title": "The Outer Worlds",
+    "studio": "Obsidian Entertainment",
+    "year": 2019,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eew.jpg",
+    "steam_url": "https://store.steampowered.com/app/578650/"
+  },
+  {
+    "title": "Dead Cells",
+    "studio": "Motion Twin",
+    "year": 2018,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7jfv.jpg",
+    "steam_url": "https://store.steampowered.com/app/588650/"
+  },
+  {
+    "title": "Crysis 2",
+    "studio": "Crytek Frankfurt",
+    "year": 2011,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2on2.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Sims 3",
+    "studio": "The Sims Studio",
+    "year": 2009,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavu6.jpg",
+    "steam_url": "https://store.steampowered.com/app/47890/"
+  },
+  {
+    "title": "Sid Meier's Civilization VI",
+    "studio": "Firaxis Games",
+    "year": 2016,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaqr.jpg",
+    "steam_url": "https://store.steampowered.com/app/289070/"
+  },
+  {
+    "title": "Call of Duty: Advanced Warfare",
+    "studio": "Sledgehammer Games",
+    "year": 2014,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wky.jpg",
+    "steam_url": "https://store.steampowered.com/app/209650/"
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "studio": "Nintendo EPD Production Group No. 9",
+    "year": 2017,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213p.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "studio": "Sonic Team",
+    "year": 1991,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanlj.jpg",
+    "steam_url": "https://store.steampowered.com/app/71113/"
+  },
+  {
+    "title": "Resident Evil 3",
+    "studio": "Capcom Development Division 1",
+    "year": 2020,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocw1u.jpg",
+    "steam_url": "https://store.steampowered.com/app/952060/"
+  },
+  {
+    "title": "Pokémon Emerald Version",
+    "studio": "Game Freak",
+    "year": 2004,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Call of Duty: WWII",
+    "studio": "Sledgehammer Games",
+    "year": 2017,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rdj.jpg",
+    "steam_url": "https://store.steampowered.com/app/476600/"
+  },
+  {
+    "title": "Subnautica",
+    "studio": "Unknown Worlds",
+    "year": 2018,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa938.jpg",
+    "steam_url": "https://store.steampowered.com/app/264710/"
+  },
+  {
+    "title": "Days Gone",
+    "studio": "Bend Studio",
+    "year": 2019,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94bn.jpg",
+    "steam_url": "https://store.steampowered.com/app/1259420/"
+  },
+  {
+    "title": "Resident Evil Village",
+    "studio": "Capcom Development Division 1",
+    "year": 2021,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab9q.jpg",
+    "steam_url": "https://store.steampowered.com/app/1196590/"
+  },
+  {
+    "title": "PUBG: Battlegrounds",
+    "studio": "PUBG Corp",
+    "year": 2017,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaam4.jpg",
+    "steam_url": "https://store.steampowered.com/app/578080/"
+  },
+  {
+    "title": "Sonic the Hedgehog 2",
+    "studio": "Sega Technical Institute",
+    "year": 1992,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5kkj.jpg",
+    "steam_url": "https://store.steampowered.com/app/71163/"
+  },
+  {
+    "title": "Vampire: The Masquerade - Bloodlines",
+    "studio": "Troika Games",
+    "year": 2004,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n14.jpg",
+    "steam_url": "https://store.steampowered.com/app/2600/"
+  },
+  {
+    "title": "Final Fantasy XV",
+    "studio": "Luminous Productions",
+    "year": 2016,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nz1.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Braid",
+    "studio": "Number None Inc.",
+    "year": 2008,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25ni.jpg",
+    "steam_url": "https://store.steampowered.com/app/26800/"
+  },
+  {
+    "title": "Donkey Kong Country",
+    "studio": "Rare",
+    "year": 1994,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70qn.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Call of Duty: Black Ops III",
+    "studio": "Treyarch",
+    "year": 2015,
+    "rating": 7.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20yw.jpg",
+    "steam_url": "https://store.steampowered.com/app/311210/"
+  },
+  {
+    "title": "Mario Kart 64",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1996,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67hm.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Borderlands 3",
+    "studio": "Gearbox Software",
+    "year": 2019,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20r3.jpg",
+    "steam_url": "https://store.steampowered.com/app/397540/"
+  },
+  {
+    "title": "Mario Kart Wii",
+    "studio": "Nintendo EAD Software Development Group No.1",
+    "year": 2008,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co214e.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Diablo",
+    "studio": "Blizzard North",
+    "year": 1996,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ggo.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Pokémon Red Version",
+    "studio": "Game Freak",
+    "year": 1996,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pi4.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Deus Ex: Mankind Divided",
+    "studio": "Eidos Montréal",
+    "year": 2016,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25jt.jpg",
+    "steam_url": "https://store.steampowered.com/app/337000/"
+  },
+  {
+    "title": "Super Smash Bros. Brawl",
+    "studio": "Sora",
+    "year": 2008,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co221w.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Among Us",
+    "studio": "Innersloth",
+    "year": 2018,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6kqt.jpg",
+    "steam_url": "https://store.steampowered.com/app/945360/"
+  },
+  {
+    "title": "Hitman",
+    "studio": "IO Interactive",
+    "year": 2016,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fgr.jpg",
+    "steam_url": "https://store.steampowered.com/app/236870/"
+  },
+  {
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "studio": "Insomniac Games",
+    "year": 2020,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobg1j.jpg",
+    "steam_url": "https://store.steampowered.com/app/1817190/"
+  },
+  {
+    "title": "F.E.A.R.",
+    "studio": "Monolith Productions",
+    "year": 2005,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1utk.jpg",
+    "steam_url": "https://store.steampowered.com/app/21090/"
+  },
+  {
+    "title": "Ori and the Will of the Wisps",
+    "studio": "Moon Studios",
+    "year": 2020,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjl7.jpg",
+    "steam_url": "https://store.steampowered.com/app/1057090/"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "studio": "Capcom",
+    "year": 2018,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rst.jpg",
+    "steam_url": "https://store.steampowered.com/app/582010/"
+  },
+  {
+    "title": "Monkey Island 2: LeChuck's Revenge",
+    "studio": "LucasArts",
+    "year": 1991,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30yr.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Saints Row IV",
+    "studio": "High Voltage Software",
+    "year": 2013,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nrn.jpg",
+    "steam_url": "https://store.steampowered.com/app/206420/"
+  },
+  {
+    "title": "Assassin's Creed Rogue",
+    "studio": "Ubisoft Sofia",
+    "year": 2014,
+    "rating": 7.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xir.jpg",
+    "steam_url": "https://store.steampowered.com/app/311560/"
+  },
+  {
+    "title": "Silent Hill",
+    "studio": "Team Silent",
+    "year": 1999,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vye.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Tales from the Borderlands",
+    "studio": "Telltale Games",
+    "year": 2014,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20tr.jpg",
+    "steam_url": "https://store.steampowered.com/app/330830/"
+  },
+  {
+    "title": "Warcraft III: The Frozen Throne",
+    "studio": "Blizzard Entertainment",
+    "year": 2003,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xxv.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Minecraft",
+    "studio": "Mojang Studios",
+    "year": 2016,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fu7.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Mad Max",
+    "studio": "Avalanche Studios",
+    "year": 2015,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uuh.jpg",
+    "steam_url": "https://store.steampowered.com/app/234140/"
+  },
+  {
+    "title": "Kingdom Hearts",
+    "studio": "Square Product Development Division 1",
+    "year": 2002,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30zf.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Star Wars Battlefront II",
+    "studio": "EA Digital Illusions CE",
+    "year": 2017,
+    "rating": 7.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wi7.jpg",
+    "steam_url": "https://store.steampowered.com/app/1237950/"
+  },
+  {
+    "title": "Rainbow Six Siege",
+    "studio": "Ubisoft Montreal",
+    "year": 2015,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocsnm.jpg",
+    "steam_url": "https://store.steampowered.com/app/359550/"
+  },
+  {
+    "title": "Dark Souls: Remastered",
+    "studio": "QLOC",
+    "year": 2018,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobazz.jpg",
+    "steam_url": "https://store.steampowered.com/app/570940/"
+  },
+  {
+    "title": "Fall Guys",
+    "studio": "Mediatonic",
+    "year": 2020,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7cs.jpg",
+    "steam_url": "https://store.steampowered.com/app/1097150/"
+  },
+  {
+    "title": "Bayonetta",
+    "studio": "Nex Entertainment",
+    "year": 2009,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8nf4.jpg",
+    "steam_url": "https://store.steampowered.com/app/460790/"
+  },
+  {
+    "title": "Gris",
+    "studio": "Nomada Studio",
+    "year": 2018,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qv5.jpg",
+    "steam_url": "https://store.steampowered.com/app/683320/"
+  },
+  {
+    "title": "EarthBound",
+    "studio": "HAL Laboratory",
+    "year": 1994,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6v07.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Devil May Cry 5",
+    "studio": "Capcom Development Division 1",
+    "year": 2019,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rb4.jpg",
+    "steam_url": "https://store.steampowered.com/app/601150/"
+  },
+  {
+    "title": "Resident Evil 6",
+    "studio": "Capcom",
+    "year": 2012,
+    "rating": 6.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobgod.jpg",
+    "steam_url": "https://store.steampowered.com/app/221040/"
+  },
+  {
+    "title": "Crash Bandicoot: Warped",
+    "studio": "Naughty Dog",
+    "year": 1998,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co873w.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "SuperHot",
+    "studio": "SUPERHOT Team",
+    "year": 2016,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ybp.jpg",
+    "steam_url": "https://store.steampowered.com/app/322500/"
+  },
+  {
+    "title": "Hitman: Blood Money",
+    "studio": "IO Interactive",
+    "year": 2006,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dm6.jpg",
+    "steam_url": "https://store.steampowered.com/app/6860/"
+  },
+  {
+    "title": "Far Cry 2",
+    "studio": "Ubisoft Montreal",
+    "year": 2008,
+    "rating": 6.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpo.jpg",
+    "steam_url": "https://store.steampowered.com/app/19900/"
+  },
+  {
+    "title": "Need for Speed: Carbon",
+    "studio": "EA Black Box",
+    "year": 2006,
+    "rating": 7.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209k.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "XCOM: Enemy Unknown",
+    "studio": "Firaxis Games",
+    "year": 2012,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co29i2.jpg",
+    "steam_url": "https://store.steampowered.com/app/200510/"
+  },
+  {
+    "title": "Paper Mario: The Thousand-Year Door",
+    "studio": "Intelligent Systems",
+    "year": 2004,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25us.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Metal Gear Rising: Revengeance",
+    "studio": "PlatinumGames",
+    "year": 2013,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l1t.jpg",
+    "steam_url": "https://store.steampowered.com/app/235460/"
+  },
+  {
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "studio": "BioWare Edmonton",
+    "year": 2000,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co71yr.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Uncharted: The Lost Legacy",
+    "studio": "Naughty Dog",
+    "year": 2017,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tp9.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
+    "studio": "CD Projekt RED",
+    "year": 2015,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1t7q.jpg",
+    "steam_url": "https://store.steampowered.com/app/378649/"
+  },
+  {
+    "title": "Dead Island",
+    "studio": "Techland",
+    "year": 2011,
+    "rating": 7.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3lym.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Black Mesa",
+    "studio": "Crowbar Collective",
+    "year": 2020,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20n4.jpg",
+    "steam_url": "https://store.steampowered.com/app/362890/"
+  },
+  {
+    "title": "Pokémon FireRed Version",
+    "studio": "Game Freak",
+    "year": 2004,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Tekken 3",
+    "studio": "Namco",
+    "year": 1997,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d7q.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Gears of War",
+    "studio": "Epic Games",
+    "year": 2006,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8rkr.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Mass Effect: Andromeda",
+    "studio": "BioWare Montréal",
+    "year": 2017,
+    "rating": 7.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vk.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Far Cry",
+    "studio": "Crytek Frankfurt",
+    "year": 2004,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpf.jpg",
+    "steam_url": "https://store.steampowered.com/app/13520/"
+  },
+  {
+    "title": "The Binding of Isaac: Rebirth",
+    "studio": "Edmund McMillen",
+    "year": 2014,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaare.jpg",
+    "steam_url": "https://store.steampowered.com/app/250900/"
+  },
+  {
+    "title": "Super Mario Bros. 2",
+    "studio": "Nintendo R&D4",
+    "year": 1988,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yq7.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Halo 4",
+    "studio": "343 Industries",
+    "year": 2012,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xhf.jpg",
+    "steam_url": "https://store.steampowered.com/app/1064273/"
+  },
+  {
+    "title": "Gone Home",
+    "studio": "Fullbright",
+    "year": 2013,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/qwhxxrcxzw7inwfrfkbq.jpg",
+    "steam_url": "https://store.steampowered.com/app/232430/"
+  },
+  {
+    "title": "Persona 4 Golden",
+    "studio": "Atlus",
+    "year": 2012,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n1x.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Sims 2",
+    "studio": "Maxis",
+    "year": 2004,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dm5.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Grand Theft Auto 2",
+    "studio": "DMA Design",
+    "year": 1999,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb2.jpg",
+    "steam_url": "https://store.steampowered.com/app/12180/"
+  },
+  {
+    "title": "Slay the Spire",
+    "studio": "Mega Crit Games",
+    "year": 2019,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iyf.jpg",
+    "steam_url": "https://store.steampowered.com/app/646570/"
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "studio": "Frictional Games",
+    "year": 2010,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qq5.jpg",
+    "steam_url": "https://store.steampowered.com/app/57300/"
+  },
+  {
+    "title": "Shovel Knight",
+    "studio": "Yacht Club Games",
+    "year": 2014,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaa7.jpg",
+    "steam_url": "https://store.steampowered.com/app/589500/"
+  },
+  {
+    "title": "Prince of Persia: Warrior Within",
+    "studio": "Ubisoft Montreal",
+    "year": 2004,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9x1a.jpg",
+    "steam_url": "https://store.steampowered.com/app/13500/"
+  },
+  {
+    "title": "Doki Doki Literature Club!",
+    "studio": "Team Salvato",
+    "year": 2017,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6p5e.jpg",
+    "steam_url": "https://store.steampowered.com/app/698780/"
+  },
+  {
+    "title": "Warframe",
+    "studio": "Digital Extremes",
+    "year": 2013,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocytd.jpg",
+    "steam_url": "https://store.steampowered.com/app/230410/"
+  },
+  {
+    "title": "Counter-Strike: Source",
+    "studio": "Valve",
+    "year": 2004,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1txv.jpg",
+    "steam_url": "https://store.steampowered.com/app/240/"
+  },
+  {
+    "title": "Crash Bandicoot 2: Cortex Strikes Back",
+    "studio": "Naughty Dog",
+    "year": 1997,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82vt.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Witness",
+    "studio": "Thekla, Inc",
+    "year": 2016,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.jpg",
+    "steam_url": "https://store.steampowered.com/app/210970/"
+  },
+  {
+    "title": "Doom II: Hell on Earth",
+    "studio": "id Software",
+    "year": 1994,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6iip.jpg",
+    "steam_url": "https://store.steampowered.com/app/2300/"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time 3D",
+    "studio": "Grezzo",
+    "year": 2011,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co600u.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Pokémon Yellow Version: Special Pikachu Edition",
+    "studio": "Game Freak",
+    "year": 1998,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pih.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Infamous: Second Son",
+    "studio": "Sucker Punch Productions",
+    "year": 2014,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1izy.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario Sunshine",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2002,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8q1.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Yakuza 0",
+    "studio": "Ryu Ga Gotoku Studio",
+    "year": 2015,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co252x.jpg",
+    "steam_url": "https://store.steampowered.com/app/638970/"
+  },
+  {
+    "title": "The Sims",
+    "studio": "Maxis",
+    "year": 2000,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8j9a.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Hollow Knight: Silksong",
+    "studio": "Team Cherry",
+    "year": 2025,
+    "rating": 9.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobebu.jpg",
+    "steam_url": "https://store.steampowered.com/app/1030300/"
+  },
+  {
+    "title": "Final Fantasy VIII",
+    "studio": "Square Product Development Division 1",
+    "year": 1999,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2z7d.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Burnout Paradise",
+    "studio": "Criterion Games",
+    "year": 2008,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28p7.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Valorant",
+    "studio": "Riot Games",
+    "year": 2020,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqbp.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Payday 2",
+    "studio": "Overkill Software",
+    "year": 2013,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaqu.jpg",
+    "steam_url": "https://store.steampowered.com/app/218620/"
+  },
+  {
+    "title": "Metal Gear Solid V: Ground Zeroes",
+    "studio": "Kojima Productions",
+    "year": 2014,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v88.jpg",
+    "steam_url": "https://store.steampowered.com/app/311340/"
+  },
+  {
+    "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "studio": "Rare",
+    "year": 1995,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co217m.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Far Cry: Primal",
+    "studio": "Ubisoft Montreal",
+    "year": 2016,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28ha.jpg",
+    "steam_url": "https://store.steampowered.com/app/371660/"
+  },
+  {
+    "title": "Mafia III",
+    "studio": "Hangar 13",
+    "year": 2016,
+    "rating": 6.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mll.jpg",
+    "steam_url": "https://store.steampowered.com/app/360430/"
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "studio": "Nintendo EPD Production Group No. 5",
+    "year": 2020,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wls.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Return of the Obra Dinn",
+    "studio": "Lucas Pope",
+    "year": 2018,
+    "rating": 9.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27j9.jpg",
+    "steam_url": "https://store.steampowered.com/app/653530/"
+  },
+  {
+    "title": "DmC: Devil May Cry",
+    "studio": "Ninja Theory",
+    "year": 2013,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u77.jpg",
+    "steam_url": "https://store.steampowered.com/app/220440/"
+  },
+  {
+    "title": "Final Fantasy VII Remake",
+    "studio": "Square Enix Creative Business Unit I",
+    "year": 2020,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcwt.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Grand Theft Auto",
+    "studio": "DMA Design",
+    "year": 1997,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb0.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Life is Strange: Before the Storm",
+    "studio": "Deck Nine",
+    "year": 2017,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twj.jpg",
+    "steam_url": "https://store.steampowered.com/app/554620/"
+  },
+  {
+    "title": "Mortal Kombat X",
+    "studio": "NetherRealm Studios",
+    "year": 2015,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y08.jpg",
+    "steam_url": "https://store.steampowered.com/app/307780/"
+  },
+  {
+    "title": "Pokémon Go",
+    "studio": "Niantic Labs",
+    "year": 2016,
+    "rating": 6.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gmb.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Destiny",
+    "studio": "Bungie",
+    "year": 2014,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rco.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Abzu",
+    "studio": "Giant Squid",
+    "year": 2016,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28sy.jpg",
+    "steam_url": "https://store.steampowered.com/app/384190/"
+  },
+  {
+    "title": "Mafia: Definitive Edition",
+    "studio": "Hangar 13",
+    "year": 2020,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26vl.jpg",
+    "steam_url": "https://store.steampowered.com/app/1030840/"
+  },
+  {
+    "title": "Middle-earth: Shadow of War",
+    "studio": "Monolith Productions",
+    "year": 2017,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20pq.jpg",
+    "steam_url": "https://store.steampowered.com/app/356190/"
+  },
+  {
+    "title": "Resident Evil",
+    "studio": "Capcom",
+    "year": 2014,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1taw.jpg",
+    "steam_url": "https://store.steampowered.com/app/304240/"
+  },
+  {
+    "title": "Transistor",
+    "studio": "Supergiant Games",
+    "year": 2014,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob23o.jpg",
+    "steam_url": "https://store.steampowered.com/app/237930/"
+  },
+  {
+    "title": "Path of Exile",
+    "studio": "Grinding Gear Games",
+    "year": 2013,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n6w.jpg",
+    "steam_url": "https://store.steampowered.com/app/238960/"
+  },
+  {
+    "title": "The Secret of Monkey Island",
+    "studio": "Lucasfilm Games",
+    "year": 1990,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28bp.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Pokémon Blue Version",
+    "studio": "Game Freak",
+    "year": 1996,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pi7.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Just Cause 2",
+    "studio": "Avalanche Studios",
+    "year": 2010,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qri.jpg",
+    "steam_url": "https://store.steampowered.com/app/8190/"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare",
+    "studio": "Infinity Ward",
+    "year": 2019,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rsg.jpg",
+    "steam_url": "https://store.steampowered.com/app/2000950/"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt - Blood and Wine",
+    "studio": "CD Projekt RED",
+    "year": 2016,
+    "rating": 9.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lgo.jpg",
+    "steam_url": "https://store.steampowered.com/app/378648/"
+  },
+  {
+    "title": "Assassin's Creed Valhalla",
+    "studio": "Ubisoft Montreal",
+    "year": 2020,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ed3.jpg",
+    "steam_url": "https://store.steampowered.com/app/2208920/"
+  },
+  {
+    "title": "Ratchet & Clank",
+    "studio": "Insomniac Games",
+    "year": 2016,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co230k.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Kingdom Come: Deliverance",
+    "studio": "Warhorse Studios",
+    "year": 2018,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4aqi.jpg",
+    "steam_url": "https://store.steampowered.com/app/2098310/"
+  },
+  {
+    "title": "The Talos Principle",
+    "studio": "Croteam",
+    "year": 2014,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rb5.jpg",
+    "steam_url": "https://store.steampowered.com/app/257510/"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "studio": "GSC Game World",
+    "year": 2007,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4s4.jpg",
+    "steam_url": "https://store.steampowered.com/app/4500/"
+  },
+  {
+    "title": "Garry's Mod",
+    "studio": "Facepunch Studios",
+    "year": 2004,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pgw.jpg",
+    "steam_url": "https://store.steampowered.com/app/4000/"
+  },
+  {
+    "title": "Prince of Persia: The Two Thrones",
+    "studio": "Ubisoft Casablanca",
+    "year": 2005,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ta0.jpg",
+    "steam_url": "https://store.steampowered.com/app/13530/"
+  },
+  {
+    "title": "Return to Castle Wolfenstein",
+    "studio": "Gray Matter Interactive",
+    "year": 2001,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xzr.jpg",
+    "steam_url": "https://store.steampowered.com/app/9010/"
+  },
+  {
+    "title": "Divinity: Original Sin II",
+    "studio": "Larian Studios",
+    "year": 2017,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y5v.jpg",
+    "steam_url": "https://store.steampowered.com/app/435150/"
+  },
+  {
+    "title": "The Evil Within",
+    "studio": "Tango Gameworks",
+    "year": 2014,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wgs.jpg",
+    "steam_url": "https://store.steampowered.com/app/268050/"
+  },
+  {
+    "title": "Hotline Miami 2: Wrong Number",
+    "studio": "Dennaton Games",
+    "year": 2015,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wf6.jpg",
+    "steam_url": "https://store.steampowered.com/app/2787800/"
+  },
+  {
+    "title": "To the Moon",
+    "studio": "Freebird Games",
+    "year": 2011,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25yv.jpg",
+    "steam_url": "https://store.steampowered.com/app/206440/"
+  },
+  {
+    "title": "Super Smash Bros.",
+    "studio": "HAL Laboratory",
+    "year": 1999,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tso.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Age of Mythology",
+    "studio": "Ensemble Studios",
+    "year": 2002,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co907c.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Fez",
+    "studio": "Polytron Corporation",
+    "year": 2012,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rd9.jpg",
+    "steam_url": "https://store.steampowered.com/app/224760/"
+  },
+  {
+    "title": "Darkest Dungeon",
+    "studio": "Red Hook Studios",
+    "year": 2016,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaw2.jpg",
+    "steam_url": "https://store.steampowered.com/app/262060/"
+  },
+  {
+    "title": "Darksiders",
+    "studio": "Vigil Games",
+    "year": 2010,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co29t0.jpg",
+    "steam_url": "https://store.steampowered.com/app/50620/"
+  },
+  {
+    "title": "Resident Evil 3: Nemesis",
+    "studio": "Capcom Planning Room 2",
+    "year": 1999,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vvb.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Day of the Tentacle",
+    "studio": "LucasArts",
+    "year": 1993,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30yt.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Star Wars Battlefront",
+    "studio": "EA Digital Illusions CE",
+    "year": 2015,
+    "rating": 6.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2res.jpg",
+    "steam_url": "https://store.steampowered.com/app/1237980/"
+  },
+  {
+    "title": "Mortal Kombat",
+    "studio": "NetherRealm Studios",
+    "year": 2011,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20mc.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Devil May Cry 4",
+    "studio": "Capcom Production Studio 1",
+    "year": 2008,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u6n.jpg",
+    "steam_url": "https://store.steampowered.com/app/45700/"
+  },
+  {
+    "title": "Wolfenstein: The Old Blood",
+    "studio": "MachineGames",
+    "year": 2015,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21et.jpg",
+    "steam_url": "https://store.steampowered.com/app/350080/"
+  },
+  {
+    "title": "Super Mario Kart",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 1992,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21w8.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Roblox",
+    "studio": "Roblox Corporation",
+    "year": 2006,
+    "rating": 7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cociyw.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Age of Empires III",
+    "studio": "Ensemble Studios",
+    "year": 2005,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xy6.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dead Space 3",
+    "studio": "Visceral Games",
+    "year": 2013,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2int.jpg",
+    "steam_url": "https://store.steampowered.com/app/1238060/"
+  },
+  {
+    "title": "Star Wars: The Force Unleashed",
+    "studio": "LucasArts",
+    "year": 2008,
+    "rating": 6.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25xx.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Dark Souls II: Scholar of the First Sin",
+    "studio": "FromSoftware",
+    "year": 2015,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb02.jpg",
+    "steam_url": "https://store.steampowered.com/app/335300/"
+  },
+  {
+    "title": "Valiant Hearts: The Great War",
+    "studio": "Ubisoft Montpellier",
+    "year": 2014,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25zo.jpg",
+    "steam_url": "https://store.steampowered.com/app/260230/"
+  },
+  {
+    "title": "Gears of War 2",
+    "studio": "Epic Games",
+    "year": 2008,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28gg.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Crash Team Racing",
+    "studio": "Naughty Dog",
+    "year": 1999,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7r52.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Gothic II",
+    "studio": "Piranha Bytes",
+    "year": 2002,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25ag.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Super Mario 3D World",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2013,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8wi.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "XCOM 2",
+    "studio": "Firaxis Games",
+    "year": 2016,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mvj.jpg",
+    "steam_url": "https://store.steampowered.com/app/268500/"
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim - Special Edition",
+    "studio": "Bethesda Game Studios",
+    "year": 2016,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vco.jpg",
+    "steam_url": "https://store.steampowered.com/app/489830/"
+  },
+  {
+    "title": "Gothic",
+    "studio": "Piranha Bytes",
+    "year": 2001,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25r2.jpg",
+    "steam_url": "https://store.steampowered.com/app/65540/"
+  },
+  {
+    "title": "Duke Nukem 3D",
+    "studio": "3D Realms",
+    "year": 1996,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y7x.jpg",
+    "steam_url": "https://store.steampowered.com/app/359850/"
+  },
+  {
+    "title": "Doom 3",
+    "studio": "id Software",
+    "year": 2004,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v3n.jpg",
+    "steam_url": "https://store.steampowered.com/app/9050/"
+  },
+  {
+    "title": "Just Cause 3",
+    "studio": "Avalanche Studios",
+    "year": 2015,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab5n.jpg",
+    "steam_url": "https://store.steampowered.com/app/225540/"
+  },
+  {
+    "title": "Forza Horizon 4",
+    "studio": "Playground Games",
+    "year": 2018,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e1a.jpg",
+    "steam_url": "https://store.steampowered.com/app/1293830/"
+  },
+  {
+    "title": "Dead by Daylight",
+    "studio": "Behaviour Interactive",
+    "year": 2016,
+    "rating": 6.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5zky.jpg",
+    "steam_url": "https://store.steampowered.com/app/381210/"
+  },
+  {
+    "title": "Machinarium",
+    "studio": "Amanita Design",
+    "year": 2009,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27lo.jpg",
+    "steam_url": "https://store.steampowered.com/app/40700/"
+  },
+  {
+    "title": "Hitman 2: Silent Assassin",
+    "studio": "IO Interactive",
+    "year": 2002,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9y3.jpg",
+    "steam_url": "https://store.steampowered.com/app/6850/"
+  },
+  {
+    "title": "The Legend of Zelda: The Minish Cap",
+    "studio": "Capcom Production Studio 1",
+    "year": 2004,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nsk.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Wii Sports",
+    "studio": "Nintendo EAD Software Development Group No.2",
+    "year": 2006,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vge.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Frostpunk",
+    "studio": "11 bit studios",
+    "year": 2018,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar27.jpg",
+    "steam_url": "https://store.steampowered.com/app/323190/"
+  },
+  {
+    "title": "The Binding of Isaac",
+    "studio": "Edmund McMillen",
+    "year": 2011,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qll.jpg",
+    "steam_url": "https://store.steampowered.com/app/113200/"
+  },
+  {
+    "title": "Battlefield V",
+    "studio": "EA Digital Illusions CE",
+    "year": 2018,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xbv.jpg",
+    "steam_url": "https://store.steampowered.com/app/1238810/"
+  },
+  {
+    "title": "Call of Duty: Infinite Warfare",
+    "studio": "Infinity Ward",
+    "year": 2016,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wkp.jpg",
+    "steam_url": "https://store.steampowered.com/app/292730/"
+  },
+  {
+    "title": "Oxenfree",
+    "studio": "Night School Studio",
+    "year": 2016,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hlq.jpg",
+    "steam_url": "https://store.steampowered.com/app/388880/"
+  },
+  {
+    "title": "Command & Conquer: Red Alert 2",
+    "studio": "Westwood Pacific",
+    "year": 2000,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coar4c.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Indiana Jones and the Fate of Atlantis",
+    "studio": "LucasArts",
+    "year": 1992,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ys2.jpg",
+    "steam_url": "https://store.steampowered.com/app/6010/"
+  },
+  {
+    "title": "Tom Clancy's The Division",
+    "studio": "Massive Entertainment",
+    "year": 2016,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yvf.jpg",
+    "steam_url": "https://store.steampowered.com/app/365590/"
+  },
+  {
+    "title": "Final Fantasy XIII",
+    "studio": "Square Enix Product Development Division 1",
+    "year": 2009,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coboys.jpg",
+    "steam_url": "https://store.steampowered.com/app/292120/"
+  },
+  {
+    "title": "Pokémon Platinum Version",
+    "studio": "Game Freak",
+    "year": 2008,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gvp.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Pokémon Crystal Version",
+    "studio": "Game Freak",
+    "year": 2000,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pil.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Psychonauts",
+    "studio": "Double Fine Productions",
+    "year": 2005,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ms.jpg",
+    "steam_url": "https://store.steampowered.com/app/3830/"
+  },
+  {
+    "title": "Borderlands: The Pre-Sequel",
+    "studio": "2K Australia",
+    "year": 2014,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20tq.jpg",
+    "steam_url": "https://store.steampowered.com/app/261640/"
+  },
+  {
+    "title": "FTL: Faster Than Light",
+    "studio": "Subset Games",
+    "year": 2012,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9chw.jpg",
+    "steam_url": "https://store.steampowered.com/app/212680/"
+  },
+  {
+    "title": "Tom Clancy's Splinter Cell",
+    "studio": "Ubisoft Montreal",
+    "year": 2002,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95ri.jpg",
+    "steam_url": "https://store.steampowered.com/app/13560/"
+  },
+  {
+    "title": "Silent Hill 3",
+    "studio": "Team Silent",
+    "year": 2003,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kol.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Pokémon Silver Version",
+    "studio": "Game Freak",
+    "year": 1999,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pid.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Planescape: Torment",
+    "studio": "Black Isle Studios",
+    "year": 1999,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ggb.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Star Wars: Jedi Knight - Jedi Academy",
+    "studio": "Raven Software",
+    "year": 2003,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5c44.jpg",
+    "steam_url": "https://store.steampowered.com/app/6020/"
+  },
+  {
+    "title": "Prototype",
+    "studio": "Radical Entertainment",
+    "year": 2009,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ql2.jpg",
+    "steam_url": "https://store.steampowered.com/app/10150/"
+  },
+  {
+    "title": "Euro Truck Simulator 2",
+    "studio": "SCS Software",
+    "year": 2012,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7et5.jpg",
+    "steam_url": "https://store.steampowered.com/app/227300/"
+  },
+  {
+    "title": "GoldenEye 007",
+    "studio": "Rare",
+    "year": 1997,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocckw.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Quake III Arena",
+    "studio": "id Software",
+    "year": 1999,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ybj.jpg",
+    "steam_url": "https://store.steampowered.com/app/2200/"
+  },
+  {
+    "title": "Crysis 3",
+    "studio": "Crytek Frankfurt",
+    "year": 2013,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2on3.jpg",
+    "steam_url": "https://store.steampowered.com/app/1282690/"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 2",
+    "studio": "Neversoft Entertainment",
+    "year": 2000,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y77.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Spore",
+    "studio": "Maxis",
+    "year": 2008,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ac9.jpg",
+    "steam_url": "https://store.steampowered.com/app/17390/"
+  },
+  {
+    "title": "Far Cry 3: Blood Dragon",
+    "studio": "Ubisoft Montreal",
+    "year": 2013,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpp.jpg",
+    "steam_url": "https://store.steampowered.com/app/233270/"
+  },
+  {
+    "title": "LEGO Star Wars: The Complete Saga",
+    "studio": "Robosoft Technologies",
+    "year": 2007,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qrr.jpg",
+    "steam_url": "https://store.steampowered.com/app/32440/"
+  },
+  {
+    "title": "Fallout Shelter",
+    "studio": "Bethesda Game Studios",
+    "year": 2015,
+    "rating": 6.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6p4w.jpg",
+    "steam_url": "https://store.steampowered.com/app/588430/"
+  },
+  {
+    "title": "Indigo Prophecy",
+    "studio": "Quantic Dream",
+    "year": 2005,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3rhh.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2006,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21rm.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Balatro",
+    "studio": "LocalThunk",
+    "year": 2024,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg",
+    "steam_url": "https://store.steampowered.com/app/2379780/"
+  },
+  {
+    "title": "Mario Kart DS",
+    "studio": "Nintendo EAD Software Development Group No.1",
+    "year": 2005,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9rx.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Game of Thrones: A Telltale Games Series",
+    "studio": "Telltale Games",
+    "year": 2014,
+    "rating": 7.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nrt.jpg",
+    "steam_url": "https://store.steampowered.com/app/330840/"
+  },
+  {
+    "title": "Rayman Origins",
+    "studio": "Ubisoft Montpellier",
+    "year": 2011,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v7k.jpg",
+    "steam_url": "https://store.steampowered.com/app/207490/"
+  },
+  {
+    "title": "Halo 3: ODST",
+    "studio": "Bungie",
+    "year": 2009,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xhh.jpg",
+    "steam_url": "https://store.steampowered.com/app/1064272/"
+  },
+  {
+    "title": "Need for Speed: Hot Pursuit",
+    "studio": "EA Digital Illusions CE",
+    "year": 2010,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h9s.jpg",
+    "steam_url": "https://store.steampowered.com/app/47870/"
+  },
+  {
+    "title": "The Legend of Zelda: Skyward Sword",
+    "studio": "Nintendo EAD Software Development Group No.3",
+    "year": 2011,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5wrj.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Half-Life: Opposing Force",
+    "studio": "Gearbox Software",
+    "year": 1999,
+    "rating": 7.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co802y.jpg",
+    "steam_url": "https://store.steampowered.com/app/50/"
+  },
+  {
+    "title": "This War of Mine",
+    "studio": "11 bit studios",
+    "year": 2014,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ans.jpg",
+    "steam_url": "https://store.steampowered.com/app/282070/"
+  },
+  {
+    "title": "Demon's Souls",
+    "studio": "FromSoftware",
+    "year": 2009,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27sk.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Batman: The Telltale Series",
+    "studio": "Telltale Games",
+    "year": 2016,
+    "rating": 7.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u65.jpg",
+    "steam_url": "https://store.steampowered.com/app/498240/"
+  },
+  {
+    "title": "Marvel's Guardians of the Galaxy",
+    "studio": "Eidos Montréal",
+    "year": 2021,
+    "rating": 8.1,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39pu.jpg",
+    "steam_url": "https://store.steampowered.com/app/1088850/"
+  },
+  {
+    "title": "Marvel's Spider-Man 2",
+    "studio": "Insomniac Games",
+    "year": 2023,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobg1k.jpg",
+    "steam_url": "https://store.steampowered.com/app/2651280/"
+  },
+  {
+    "title": "The Vanishing of Ethan Carter",
+    "studio": "The Astronauts",
+    "year": 2014,
+    "rating": 7.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7q.jpg",
+    "steam_url": "https://store.steampowered.com/app/258520/"
+  },
+  {
+    "title": "Mount & Blade: Warband",
+    "studio": "Taleworlds",
+    "year": 2010,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1y8y.jpg",
+    "steam_url": "https://store.steampowered.com/app/48700/"
+  },
+  {
+    "title": "Quantum Break",
+    "studio": "Remedy Entertainment",
+    "year": 2016,
+    "rating": 7.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gsr.jpg",
+    "steam_url": "https://store.steampowered.com/app/474960/"
+  },
+  {
+    "title": "Pokémon Gold Version",
+    "studio": "Game Freak",
+    "year": 1999,
+    "rating": 8.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pia.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "The Legend of Zelda: The Wind Waker HD",
+    "studio": "Nintendo EAD Software Development Group No.3",
+    "year": 2013,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ozi.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Beyond Good & Evil",
+    "studio": "Ubisoft Montpellier",
+    "year": 2003,
+    "rating": 8.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n6b.jpg",
+    "steam_url": "https://store.steampowered.com/app/15130/"
+  },
+  {
+    "title": "Quake",
+    "studio": "id Software",
+    "year": 1996,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9bg9.jpg",
+    "steam_url": "https://store.steampowered.com/app/2310/"
+  },
+  {
+    "title": "Inscryption",
+    "studio": "Daniel Mullins Games",
+    "year": 2021,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co401c.jpg",
+    "steam_url": "https://store.steampowered.com/app/1092790/"
+  },
+  {
+    "title": "The Forest",
+    "studio": "Endnight Games Ltd",
+    "year": 2018,
+    "rating": 7.8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyi6.jpg",
+    "steam_url": "https://store.steampowered.com/app/242760/"
+  },
+  {
+    "title": "Guitar Hero III: Legends of Rock",
+    "studio": "Vicarious Visions",
+    "year": 2007,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wqm.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Vampire Survivors",
+    "studio": "Poncle",
+    "year": 2022,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bzv.jpg",
+    "steam_url": "https://store.steampowered.com/app/1794680/"
+  },
+  {
+    "title": "Half-Life: Blue Shift",
+    "studio": "Gearbox Software",
+    "year": 2001,
+    "rating": 6.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co802z.jpg",
+    "steam_url": "https://store.steampowered.com/app/130/"
+  },
+  {
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "studio": "Vicarious Visions",
+    "year": 2017,
+    "rating": 8,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v62.jpg",
+    "steam_url": "https://store.steampowered.com/app/731490/"
+  },
+  {
+    "title": "Super Mario 3D Land",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2011,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobab1.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Don't Starve",
+    "studio": "Klei Entertainment",
+    "year": 2013,
+    "rating": 7.7,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qqw.jpg",
+    "steam_url": "https://store.steampowered.com/app/219740/"
+  },
+  {
+    "title": "Pokémon SoulSilver Version",
+    "studio": "Game Freak",
+    "year": 2009,
+    "rating": 9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z59.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Devil May Cry 3: Dante's Awakening",
+    "studio": "Capcom Production Studio 1",
+    "year": 2005,
+    "rating": 8.2,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u6u.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Horizon Forbidden West",
+    "studio": "Guerrilla Games",
+    "year": 2022,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gvu.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Bulletstorm",
+    "studio": "People Can Fly",
+    "year": 2011,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7abq.jpg",
+    "steam_url": "https://store.steampowered.com/app/99810/"
+  },
+  {
+    "title": "System Shock 2",
+    "studio": "Looking Glass Studios",
+    "year": 1999,
+    "rating": 8.9,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bak.jpg",
+    "steam_url": "https://store.steampowered.com/app/238210/"
+  },
+  {
+    "title": "Mario Kart: Double Dash!!",
+    "studio": "Nintendo Entertainment Analysis & Development",
+    "year": 2003,
+    "rating": 8.4,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ndu.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Mega Man 2",
+    "studio": "Capcom",
+    "year": 1989,
+    "rating": 8.5,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5x42.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Grim Fandango",
+    "studio": "LucasArts",
+    "year": 1998,
+    "rating": 8.6,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25r3.jpg",
+    "steam_url": null
+  },
+  {
+    "title": "Diablo IV",
+    "studio": "Blizzard Entertainment",
+    "year": 2023,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69sm.jpg",
+    "steam_url": "https://store.steampowered.com/app/2344520/"
+  },
+  {
+    "title": "Devil May Cry",
+    "studio": "Capcom Production Studio 4",
+    "year": 2001,
+    "rating": 8.3,
+    "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ck7.jpg",
+    "steam_url": null
+  }
+]
