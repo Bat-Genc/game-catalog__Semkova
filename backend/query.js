@@ -1,11 +1,19 @@
 function buildGamesQuery(q = {}) {
-    const { search, studio, minRating, sort } = q;
+    const { search, studio, minRating, sort, genre } = q;
     let where = ' WHERE 1=1';
     const params = [];
 
     if (search) { where += ' AND title LIKE ?'; params.push(`%${search}%`); }
     if (studio) { where += ' AND studio = ?'; params.push(studio); }
     if (minRating) { where += ' AND rating >= ?'; params.push(parseFloat(minRating)); }
+    if (genre) { where += ' AND genres LIKE ?'; params.push(`%${genre}%`); }
+
+    // ?pegi=16 -> игри с PEGI до 16 включително (игри без PEGI данни се изключват)
+    const pegi = parseInt(q.pegi, 10);
+    if (Number.isInteger(pegi)) {
+        where += ' AND pegi_age IS NOT NULL AND pegi_age <= ?';
+        params.push(pegi);
+    }
 
     // вторият критерий (id) пази реда стабилен между страниците
     const order = sort === 'year' ? ' ORDER BY year DESC, id' : ' ORDER BY rating DESC, id';

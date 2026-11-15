@@ -51,6 +51,28 @@ app.get('/api/games', async (req, res) => {
     }
 });
 
+// GET /api/games/:id
+app.get('/api/games/:id', async (req, res) => {
+    try {
+        const id = parseInt(req.params.id, 10);
+        if (!Number.isInteger(id) || id < 1) {
+            return res.status(400).json({ error: 'Невалиден номер на игра' });
+        }
+
+        const rows = await withDb(async db => {
+            const [r] = await db.execute('SELECT * FROM games WHERE id = ?', [id]);
+            return r;
+        });
+
+        if (rows.length === 0) {
+            return res.status(404).json({ error: 'Играта не е намерена' });
+        }
+        res.json(rows[0]);
+    } catch (err) {
+        sendError(res, err, 'Грешка при заявка към базата данни');
+    }
+});
+
 // POST /api/games
 app.post('/api/games', async (req, res) => {
     try {
