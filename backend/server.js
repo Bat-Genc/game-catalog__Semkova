@@ -18,28 +18,40 @@ const dbConfig = {
     charset: 'utf8mb4'
 };
 
-// GET /api/games?search=&studio=&minRating=&sort=year|rating
+// Отваря връзка, изпълнява fn и ВИНАГИ я затваря (дори при грешка)
+async function withDb(fn) {
+    const connection = await mysql.createConnection(dbConfig);
+    try {
+        return await fn(connection);
+    } finally {
+        await connection.end();
+    }
+}
+
+function sendError(res, err, message) {
+    console.error(err);
+    res.status(500).json({ error: message });
+}
+
+// GET /api/games?search=&studio=&minRating=&sort=year|rating&limit=&page=
 app.get('/api/games', async (req, res) => {
-    try 
-    {
+    try {
         const { sql, countSql, params } = buildGamesQuery(req.query);
 
-        const connection = await mysql.createConnection(dbConfig);
-        const [rows] = await connection.execute(sql, params);
-        const [[{ total }]] = await connection.execute(countSql, params);
-        await connection.end();
+        const { rows, total } = await withDb(async db => {
+            const [rows] = await db.execute(sql, params);
+            const [[{ total }]] = await db.execute(countSql, params);
+            return { rows, total };
+        });
 
         res.set('X-Total-Count', total);
         res.json(rows);
-    } 
-    catch (err) 
-    {
-        console.error(err);
-        res.status(500).json({ error: 'Грешка при заявка към базата данни' });
+    } catch (err) {
+        sendError(res, err, 'Грешка при заявка към базата данни');
     }
 });
 
-// POST /api/games (CRUD демо)
+// POST /api/games
 app.post('/api/games', async (req, res) => {
     try {
         const {
@@ -51,22 +63,22 @@ app.post('/api/games', async (req, res) => {
             return res.status(400).json({ error: 'title и studio са задължителни' });
         }
 
-        const connection = await mysql.createConnection(dbConfig);
-        const [result] = await connection.execute(
-            `INSERT INTO games
-             (title, studio, year, guide, rating, image_url, official_tags, content_explanation, steam_url, epic_url)
-             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-            [
-                title, studio, year ?? null, guide ?? null, rating ?? null, image_url ?? null,
-                official_tags ?? null, content_explanation ?? null, steam_url ?? null, epic_url ?? null
-            ]
-        );
-        await connection.end();
+        const result = await withDb(async db => {
+            const [r] = await db.execute(
+                `INSERT INTO games
+                 (title, studio, year, guide, rating, image_url, official_tags, content_explanation, steam_url, epic_url)
+                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+                [
+                    title, studio, year ?? null, guide ?? null, rating ?? null, image_url ?? null,
+                    official_tags ?? null, content_explanation ?? null, steam_url ?? null, epic_url ?? null
+                ]
+            );
+            return r;
+        });
 
         res.status(201).json({ id: result.insertId });
     } catch (err) {
-        console.error(err);
-        res.status(500).json({ error: 'Грешка при добавяне на игра' });
+        sendError(res, err, 'Грешка при добавяне на игра');
     }
 });
 
