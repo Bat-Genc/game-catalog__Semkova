@@ -3,4 +3,5 @@ node_modules/
 *.log
 games_raw.json
 preview.json
-to_explain_*.json
+gemini_answer.json
+to_explain*.json
