@@ -1,5 +1,6 @@
 const fs = require('fs');
 const mysql = require('mysql2/promise');
+const BATCH = 8;
 
 const KEY = process.env.GEMINI_API_KEY;
 const MODEL = 'gemini-3.8-flash';
@@ -28,11 +29,28 @@ async function ask(prompt) {
     const res = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': KEY },
-        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+        body: JSON.stringify({
+            contents: [{ parts: [{ text: prompt }] }],
+            generationConfig: { responseMimeType: 'application/json' }
+        })
     });
     if (!res.ok) throw new Error(res.status + ' ' + await res.text());
     const data = await res.json();
     return data.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+}
+
+function buildBatchPrompt(batch) {
+    const items = batch.map(g =>
+        `ID ${g.id}: ${g.title} (PEGI ${g.pegi_age}+)
+Официално PEGI описание: ${g.age_synopsis}
+Описание: ${(g.summary || '').slice(0, 300)}`).join('\n\n');
+    return `За всяка игра по-долу напиши 1-2 изречения на български за родители:
+какво реално съдържание има (насилие, език, теми). Използвай САМО фактите от
+официалното PEGI описание. Не пиши, че липсва информация за езика. Ако фактите
+не стигат, text да е точно: НЕ_ЗНАМ
+Върни САМО JSON масив във вида [{"id": 1, "text": "..."}].
+
+${items}`;
 }
 
 async function generate() {
@@ -48,16 +66,24 @@ async function generate() {
     await conn.end();
 
     const result = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : {};
-    for (const g of games) {
-        if (result[g.id]) continue; // вече генерирано, пропускаме
+    const todo = games.filter(g => !result[g.id]);
+
+    for (let i = 0; i < todo.length; i += BATCH) {
+        const batch = todo.slice(i, i + BATCH);
         try {
-            const text = await ask(buildPrompt(g));
-            if (text && text !== 'НЕ_ЗНАМ') result[g.id] = { title: g.title, pegi: g.pegi_age, text };
-            console.log(`[PEGI ${g.pegi_age}]`, g.title, '->', text.slice(0, 70));
+            const items = JSON.parse(await ask(buildBatchPrompt(batch)));
+            for (const it of items) {
+                const g = batch.find(x => x.id === Number(it.id));
+                if (g && it.text && it.text !== 'НЕ_ЗНАМ') {
+                    result[g.id] = { title: g.title, pegi: g.pegi_age, text: it.text };
+                    console.log(`[PEGI ${g.pegi_age}]`, g.title, '->', it.text.slice(0, 60));
+                }
+            }
+            fs.writeFileSync(OUT, JSON.stringify(result, null, 2));
         } catch (e) {
-            console.error(g.title, 'грешка:', e.message);
+            console.error('Грешка в порция:', e.message);
+            break; // при 429 няма смисъл да продължаваме
         }
-        fs.writeFileSync(OUT, JSON.stringify(result, null, 2));
         await sleep(6000);
     }
     console.log(`Готово. Прегледай ${OUT}, после: node explain_bot.js --apply`);
