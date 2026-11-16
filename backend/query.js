@@ -4,7 +4,7 @@ function buildGamesQuery(q = {}) {
     const params = [];
 
     if (search) { where += ' AND title LIKE ?'; params.push(`%${search}%`); }
-    if (studio) { where += ' AND studio = ?'; params.push(studio); }
+    if (studio) { where += ' AND studio LIKE ?'; params.push(`%${studio}%`); }    
     if (minRating) { where += ' AND rating >= ?'; params.push(parseFloat(minRating)); }
     if (genre) { where += ' AND genres LIKE ?'; params.push(`%${genre}%`); }
 
