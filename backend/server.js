@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const mysql = require('mysql2/promise');
 const { buildGamesQuery } = require('./query');
+const { validateGame } = require('./validate');
 
 const app = express();
 const PORT = 3000;
@@ -76,13 +77,9 @@ app.get('/api/games/:id', async (req, res) => {
 // POST /api/games
 app.post('/api/games', async (req, res) => {
     try {
-        const {
-            title, studio, year, guide, rating, image_url,
-            official_tags, content_explanation, steam_url, epic_url
-        } = req.body;
-
-        if (!title || !studio) {
-            return res.status(400).json({ error: 'title и studio са задължителни' });
+        const { errors, value: g } = validateGame(req.body);
+        if (errors.length) {
+            return res.status(400).json({ error: 'Невалидни данни', details: errors });
         }
 
         const result = await withDb(async db => {
@@ -90,10 +87,8 @@ app.post('/api/games', async (req, res) => {
                 `INSERT INTO games
                  (title, studio, year, guide, rating, image_url, official_tags, content_explanation, steam_url, epic_url)
                  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-                [
-                    title, studio, year ?? null, guide ?? null, rating ?? null, image_url ?? null,
-                    official_tags ?? null, content_explanation ?? null, steam_url ?? null, epic_url ?? null
-                ]
+                [g.title, g.studio, g.year, g.guide, g.rating, g.image_url,
+                 g.official_tags, g.content_explanation, g.steam_url, g.epic_url]
             );
             return r;
         });
