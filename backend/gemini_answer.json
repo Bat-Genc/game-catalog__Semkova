@@ -1,352 +1,282 @@
 [
-{
-"id": 86,
-"title": "Journey",
-"pegi": 7,
-"official": "The content of this game is suitable for persons aged 7 years and over only. It contains: Non realistic looking violence towards fantasy characters - Pictures or sounds likely to be scary to young children This game allows the player to interact with other players ONLINE",
-"text": "Играта съдържа нереалистично насилие срещу фантастични персонажи, както и картини или звуци, които може да изплашат малките деца. Позволява и онлайн взаимодействие с други играчи."
-},
-{
-"id": 62,
-"title": "Celeste",
-"pegi": 7,
-"official": "The content of this game is suitable for persons aged 7 years and over only. It contains: Non realistic looking violence towards characters which although human are not very detailed",
-"text": "Играта съдържа нереалистично насилие срещу човешки персонажи, които не са много детайлни."
-},
-{
-"id": 262,
-"title": "Slay the Spire",
-"pegi": 7,
-"official": "A roguelike deck building game with a single player campaign. Craft a unique deck and battle the creatures whilst working your way up the spire.",
-"text": "Играта включва битки със създания, докато си проправяте път нагоре по кулата с помощта на тесте карти."
-},
-{
-"id": 58,
-"title": "Ori and the Blind Forest",
-"pegi": 7,
-"official": "The content of this game is suitable for persons aged 7 years and over only. It contains: Non realistic looking violence towards fantasy characters",
-"text": "Играта съдържа нереалистично насилие срещу фантастични персонажи."
-},
-{
-"id": 135,
-"title": "Outer Wilds",
-"pegi": 7,
-"official": "This game has received a PEGI 7 because it features mild violence that lacks any apparent harm or injury to human-like characters and pictures or sounds likely to be scary to young children. Not suitable for persons below 7 years of age.",
-"text": "Играта включва леко насилие без видими наранявания по човекоподобни персонажи, както и картини или звуци, които може да изплашат малките деца."
-},
-{
-"id": 125,
-"title": "Cuphead",
-"pegi": 7,
-"official": "Cuphead is a 'run and gun' action game, heavily focused on boss battles and inspired by cartoons of the 1930s.",
-"text": "Екшън игра със стрелба и битки с босове, вдъхновена от анимационните филми от 30-те години на миналия век."
-},
-{
-"id": 385,
-"title": "Child of Light",
-"pegi": 7,
-"official": "The content of this game is suitable for persons aged 7 years and over only. It contains: Non realistic looking violence towards fantasy characters - Pictures or sounds likely to be scary to young children",
-"text": "Играта съдържа нереалистично насилие срещу фантастични персонажи, както и картини или звуци, които може да изплашат малките деца."
-},
-{
-"id": 26,
-"title": "Minecraft: Java Edition",
-"pegi": 7,
-"official": "The content of this game is suitable for persons aged 7 years and over only. It contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children - Pictures or sounds likely to be scary to young children - Non realistic looking violence towards characters which although human are not very detailed This game allows the player to interact with other players ONLINE",
-"text": "Съдържа нереалистично и анимационно насилие срещу фантастични и слабо детайлни човешки персонажи, както и страшни картини или звуци за малки деца. Позволява и онлайн взаимодействие с други играчи."
-},
-{
-"id": 175,
-"title": "Hearthstone",
-"pegi": 7,
-"official": "The content of this game is suitable for persons aged 7 years and over only. It contains: Pictures or sounds likely to be scary to young children. This game allows the player to interact with other players ONLINE.",
-"text": "Играта съдържа картини или звуци, които може да изплашат малките деца, и позволява онлайн взаимодействие с други играчи."
-},
-{
-"id": 213,
-"title": "Subnautica",
-"pegi": 7,
-"official": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - All while trying to survive. Violence is very mild and is viewed entirely in the first person. Fend off alien creatures with your survival knife. Although some of the aliens bleed a little, injuries are not visible. Some locations can be dark and combined with the strange creatures, may be scary to younger children.",
-"text": "Съдържа много леко насилие при отбрана от извънземни създания с нож, като някои от тях кървят леко, но без видими рани. Тъмните места и странните същества може да изплашат по-малките деца."
-},
-{
-"id": 3,
-"title": "Portal 2",
-"pegi": 12,
-"official": "No Rating Summary",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 31,
-"title": "Undertale",
-"pegi": 12,
-"official": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 357,
-"title": "Balatro",
-"pegi": 12,
-"official": "This game has received a PEGI 12 because it features gambling themes. Not suitable for persons under 12 years of age.",
-"text": "Играта съдържа теми, свързани с хазарт."
-},
-{
-"id": 337,
-"title": "Indiana Jones and the Fate of Atlantis",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Non realistic looking violence towards human characters - Mild bad language.",
-"text": "Играта съдържа нереалистично насилие срещу човешки персонажи и лек нецензурен език."
-},
-{
-"id": 370,
-"title": "Beyond Good & Evil",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Content that teaches or encourages gambling - Non realistic looking violence towards human characters - Mild bad language.",
-"text": "Играта съдържа елементи, които учат на или насърчават хазарт, нереалистично насилие срещу човешки персонажи и лек нецензурен език."
-},
-{
-"id": 336,
-"title": "Command & Conquer: Red Alert 2",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Realistic looking violence",
-"text": "Играта съдържа реалистично изглеждащо насилие."
-},
-{
-"id": 234,
-"title": "Warcraft III: The Frozen Throne",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Non realistic looking violence towards fantasy characters.",
-"text": "Играта съдържа нереалистично насилие срещу фантастични персонажи."
-},
-{
-"id": 220,
-"title": "Braid",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Violence in a sporting context - Mild bad language",
-"text": "Играта съдържа насилие в спортен контекст и лек нецензурен език."
-},
-{
-"id": 93,
-"title": "Sid Meier's Civilization V",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Non realistic looking violence towards human characters This game allows the player to interact with other players ONLINE",
-"text": "Играта съдържа нереалистично насилие срещу човешки персонажи и позволява онлайн взаимодействие с други играчи."
-},
-{
-"id": 383,
-"title": "Grim Fandango",
-"pegi": 12,
-"official": "The content of this game is suitable for persons aged 12 years and over only. It contains: Mild bad language - Non realistic looking violence towards fantasy characters",
-"text": "Играта съдържа лек нецензурен език и нереалистично насилие срещу фантастични персонажи."
-},
-{
-"id": 188,
-"title": "Persona 5 Royal",
-"pegi": 16,
-"official": "Persona 5 Royal follows the story of a Japanese high-school student as he is pulled into a fantasy world that mirrors the real one. Using powers granted by the Metaverse, the protagonist and his friends work as a group of thieves to enter the subconscious of various antagonists to steal a treasure which forces a change of heart in the real world.",
-"text": "Историята проследява ученици, които като група крадци проникват в подсъзнанието на противници във фантастичен свят, за да откраднат съкровище и да променят поведението им в реалността."
-},
-{
-"id": 257,
-"title": "The Binding of Isaac: Rebirth",
-"pegi": 16,
-"official": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence - Use of illegal drugs",
-"text": "Играта съдържа реалистично изглеждащо насилие и употреба на незаконни наркотици."
-},
-{
-"id": 380,
-"title": "Horizon Forbidden West",
-"pegi": 16,
-"official": "Action role-playing game in which players take on the role of Aloy as she explores the Forbidden West, fighting with and against new tribes in an attempt to save mankind in the post-apocalyptic world of Horizon.",
-"text": "Екшън игра в постапокалиптичен свят, в която главната героиня се сражава заедно с и срещу различни племена, за да спаси човечеството."
-},
-{
-"id": 53,
-"title": "Diablo II",
-"pegi": 16,
-"official": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence.",
-"text": "Играта съдържа реалистично изглеждащо насилие."
-},
-{
-"id": 46,
-"title": "Dark Souls",
-"pegi": 16,
-"official": "The game is a continuation of 'Demon Souls' and focuses the gameplay on events within the world of Lordran and defeating the Dark Knight Artorias.",
-"text": "Играта се фокусира върху събития във фантастичен свят и побеждаването на Тъмния рицар Арториас."
-},
-{
-"id": 391,
-"title": "Diablo II: Lord of Destruction",
-"pegi": 16,
-"official": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence.",
-"text": "Играта съдържа реалистично изглеждащо насилие."
-},
-{
-"id": 282,
-"title": "Final Fantasy VII Remake",
-"pegi": 16,
-"official": "The world has fallen under the control of the Shinra Electric Power Company, a shadowy corporation controlling the planet's life force. In the city of Midgar, an anti-Shinra organization calling themselves Avalanche have stepped up their resistance. Cloud Strife, a former member of Shinra's SOLDIER now turned mercenary, lends his aid to the group.",
-"text": "Сюжетът проследява наемник, който помага на съпротивителна организация в борбата ѝ срещу сенчеста корпорация, контролираща жизнената сила на планетата."
-},
-{
-"id": 75,
-"title": "StarCraft",
-"pegi": 16,
-"official": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence. The violence depicted is quite bloody but lacks detail. Whenever a character is shot and killed there are some splashes of blood, and the body disappears. When a character (human or fantasy) is blown up unidentifiable pieces of the character will be spread about the immediate vicinity, accompanied by a large quantity of blood effects. However, all of the pieces and blood disappear very quickly.",
-"text": "Съдържа реалистично и доста кърваво насилие без висока детайлност, включващо пръски кръв при застрелване и разпръскване на неразпознаваеми части от тела при експлозии, които бързо изчезват."
-},
-{
-"id": 230,
-"title": "Monster Hunter: World",
-"pegi": 16,
-"official": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence",
-"text": "Играта съдържа реалистично изглеждащо насилие."
-},
-{
-"id": 94,
-"title": "StarCraft II: Wings of Liberty",
-"pegi": 16,
-"official": "No Rating Summary",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 327,
-"title": "Forza Horizon 4",
-"pegi": 3,
-"official": "This game has received a PEGI 3 and is suited for all persons.",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 79,
-"title": "Rocket League",
-"pegi": 3,
-"official": "The content of this game is suitable for all persons. It contains: This game allows the player to interact with other players ONLINE",
-"text": "Играта е подходяща за всички възрасти и позволява онлайн взаимодействие с други играчи."
-},
-{
-"id": 112,
-"title": "Need for Speed: Most Wanted",
-"pegi": 3,
-"official": "The content of this game is suitable for all persons.",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 269,
-"title": "The Witness",
-"pegi": 3,
-"official": "The game features a statue which shows a bare chested female. The bright and colourful surroundings give a warm and friendly feel to this island. Even though the island is completely abandoned and you venture in broken down structures, the game never wants to scare you. The game is an open world adventure which revolves around puzzles which become increasingly difficult. Because of this the game might not be suitable for the youngest of players.",
-"text": "Включва статуя на жена с голи гърди и изоставени разрушени сгради, но без страшни елементи. Състои се от пъзели с нарастваща трудност, които може да не са подходящи за най-малките."
-},
-{
-"id": 307,
-"title": "Fez",
-"pegi": 3,
-"official": "The content of this game is suitable for all persons.",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 138,
-"title": "Need for Speed: Underground 2",
-"pegi": 3,
-"official": "The content of this game is suitable for all persons.",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 148,
-"title": "Need for Speed: Underground",
-"pegi": 3,
-"official": "The content of this game is suitable for all persons.",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 455,
-"title": "Overcooked! 2",
-"pegi": 3,
-"official": "No Rating Summary",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 178,
-"title": "Cities: Skylines",
-"pegi": 3,
-"official": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
-"text": "Симулатор, фокусиран върху изграждането и управлението на модерен град."
-},
-{
-"id": 240,
-"title": "Fall Guys",
-"pegi": 3,
-"official": "Online multiplayer party game in which up to sixty players move around a three-dimensional playing field. Players compete in a series of mini-games, which may involve racing and avoiding puzzles until one remains to be the winner.",
-"text": "Онлайн мултиплейър игра, в която до шейсет играчи се състезават в мини-игри със състезания и избягване на препятствия."
-},
-{
-"id": 50,
-"title": "Baldur's Gate III",
-"pegi": 18,
-"official": "Role-playing game in which players must fight against an ancient evil that has returned to Baldur's Gate.",
-"text": "Ролева игра, в която играчите се бият срещу древно зло."
-},
-{
-"id": 8,
-"title": "God of War",
-"pegi": 18,
-"official": "This game is rated PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to gross violence towards human characters, violence against vulnerable and defenceless characters and the use of sexual expletives.",
-"text": "Играта съдържа брутално насилие срещу човешки персонажи, насилие срещу уязвими и беззащитни герои, както и използване на сексуални ругатни."
-},
-{
-"id": 7,
-"title": "Red Dead Redemption 2",
-"pegi": 18,
-"official": "This game is rated PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to depictions of violence towards vulnerable and defenceless human characters, depictions of apparently motiveless killing to multiple numbers of innocent human characters, depictions of gross violence towards human characters, use of sexual expletives and discriminatory language, and moving images that encourage and teach the use of games of chance. Not suitable for persons under 18 years of age.",
-"text": "Съдържа брутално насилие срещу беззащитни хора, безмотивни убийства на множество невинни герои, както и сексуални ругатни и дискриминационен език. Включва и елементи, които насърчават и учат на хазартни игри."
-},
-{
-"id": 2,
-"title": "The Witcher 3: Wild Hunt",
-"pegi": 18,
-"official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language",
-"text": "Играта съдържа крайно насилие, насилие срещу беззащитни хора и груб език."
-},
-{
-"id": 84,
-"title": "God of War Ragnarök",
-"pegi": 18,
-"official": "Sequel to God of War, which takes place three years after the events of the previous game, in which Kratos and Atreus must journey to each of the Nine Realms to gather allies and prepare for a battle that is prophesied to end the world.",
-"text": "Сюжетът проследява пътуването на двама герои през девет свята, за да съберат съюзници и да се подготвят за битка, която според пророчеството ще сложи край на света."
-},
-{
-"id": 5,
-"title": "Grand Theft Auto: San Andreas",
-"pegi": 18,
-"official": "No Rating Summary",
-"text": "НЕ_ЗНАМ"
-},
-{
-"id": 12,
-"title": "Grand Theft Auto: Vice City",
-"pegi": 18,
-"official": "Open world adventure game set in the 80s, where you play as Tommy Vercetti taking over Vice City.",
-"text": "Приключенска игра с отворен свят от 80-те години, в която играчът поема контрола над града."
-},
-{
-"id": 65,
-"title": "Sekiro: Shadows Die Twice",
-"pegi": 18,
-"official": "This game is rated PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to depictions of strong graphic violence towards human-like characters. Not suitable for persons under 18 years of age.",
-"text": "Играта съдържа силно графично насилие срещу човекоподобни персонажи."
-},
-{
-"id": 85,
-"title": "Metal Gear Solid V: The Phantom Pain",
-"pegi": 18,
-"official": "In the aftermath of the events of Ground Zeroes and the destruction of Militaires Sans Frontièrs (commonly abbreviated as MSF), Snake falls into a coma. Nine years later, he awakes and helps lead a new mercenary group, the Diamond Dogs. Now under the guise of the codename \"Venom Snake\", he ventures into Afghanistan during the Soviet war to track down the men responsible for MSF's destruction. Along the way, he becomes reacquainted with his former rival Ocelot and encounters a unit of warriors robbed of their past, present and future. While he and Kazuhira ‘Kaz’ Miller are initially driven to exact revenge, Snake soon unearths a plot by the Cipher organization to develop a weapon with the potential to surpass even the Metal Gear system.",
-"text": "Действието се развива в Афганистан по време на съветската война, където лидер на наемническа група търси отмъщение и разкрива заговор за разработване на мощно оръжие."
-},
-{
-"id": 11,
-"title": "BioShock",
-"pegi": 18,
-"official": "The game contains depictions of realistic-looking violence. The game contains bad language (e.g. sexual expletives or blasphemy). The game contains elements that encourage or teach gambling. These simulations of gambling refer to games of chance that are normally carried out in casinos or gambling halls.",
-"text": "Играта съдържа реалистично изглеждащо насилие и нецензурен език, включително сексуални ругатни или богохулство. Включва и симулации на казино игри, които насърчават или учат на хазарт."
-}
+  {
+    "id": 388,
+    "title": "Metro 2033 Redux",
+    "pegi": 18,
+    "official": "This is a first-person shooter game in which players assume the role of a survivor in a post-apocalyptic world. Players use pistols, shotguns, assault rifles, and explosives to kill mutants and human enemies in frenetic combat. Blood-splatter effects occur frequently, and some weapons can dismember enemies. Cutscenes depict additional acts of violence: a man's head shoved into boiling water; a character strangled to death. The game also contains strong language.",
+    "text": "Играта съдържа интензивни битки с оръжия и експлозиви срещу мутанти и хора, с кръв и разчленяване. В клиповете се показват и сцени на насилие като глава в вряща вода и задушаване, придружени със силен език[cite: 6]."
+  },
+  {
+    "id": 431,
+    "title": "Life Is Strange 2",
+    "pegi": 18,
+    "official": "This game is rated PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to depictions of violence towards vulnerable and defenceless human-like characters, glamorization of the use of illegal drugs, and use of sexual expletives. Not suitable for persons under 18 years of age. This game contains infrequent depictions of violence towards vulnerable and defenceless human-like characters. One example of this involves a 16-year-old boy who has been forcefully handcuffed to a metal pole and unable to escape. During the scene the boy confronts his captor which leads to him being violently kicked in the face as punishment. Another example can be found in the third episode, in which a child is shot in the shoulder. The boy lets out a pained cry as a large amount of blood appears around the wound. Episode three also contains glamorisation of the use of illegal drugs. As part of the storyline the teenage protagonist and his younger brother work on an illegal marijuana plantation. They also meet up with a group of young adults who have worked on the plantation for numerous seasons and praise it as a reliable option for earning money. There is a minigame where the player must prepare the marijuana in a timely manner to sell it on. This game also contains frequent use of sexual expletives, the word “fuck” and its derivatives can be found throughout. The Awesome Adventures of Captain Spirit contains scenes of implied child abuse, with the father character verbally abusing his son. Implied physical violence is also present as characters comment on the bruises left on the child’s arm. There is also an option for the child (who is ten years old) to steal and smoke one of his father cigarettes. The forth episode in particular has multiple scenes of the teenage protagonist being violently beaten. These altercations cause obvious bruising and bleeding to appear on his body.",
+    "text": "Играта съдържа насилие срещу уязвими персонажи (включително побои над деца), романтизиране на незаконни наркотици чрез отглеждане на марихуана и честа употреба на сексуални ругатни[cite: 6]."
+  },
+  {
+    "id": 131,
+    "title": "Battlefield 4",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language. This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, насилие срещу беззащитни хора и силен език, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 211,
+    "title": "Resident Evil 3",
+    "pegi": 18,
+    "official": "This game has received a PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to graphic violence and use of strong language.. Not suitable for persons below 18 years of age. This game contains frequent depictions of gross violence towards human-like characters. The player must kill numerous humanoid zombie characters through the course of the game. The attacks are mainly dealt through gunfire. However, the player is also able to dispose of enemies with weapons such as knifes and flamethrowers. All attacks leave visible injuries with strong blood and gore effects visible. The player is also able to dismember and decapitate nearly all enemies present in the game, after dismembering a body part, strong blood will flow from the wounds and organs and bones can become visible. This game also contains use of sexual expletives, the word “fuck” and its derivatives can be found throughout.",
+    "text": "Играта съдържа чести изображения на брутално насилие срещу човекоподобни зомбита с видими рани, силна кръв, разчленяване и обезглавяване, както и използване на сексуални ругатни[cite: 6]."
+  },
+  {
+    "id": 39,
+    "title": "Assassin's Creed",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people",
+    "text": "Играта съдържа екстремно насилие и насилие срещу беззащитни хора[cite: 6]."
+  },
+  {
+    "id": 60,
+    "title": "Assassin's Creed III",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора и силен език, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 90,
+    "title": "Watch Dogs",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Multiple, motiveless killing - Strong language - Content that teaches or encourages gambling This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа множество безмотивни убийства, силен език и съдържание, което насърчава хазарта, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 177,
+    "title": "Outlast",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language",
+    "text": "Играта съдържа екстремно насилие, насилие срещу беззащитни хора и силен език[cite: 6]."
+  },
+  {
+    "id": 214,
+    "title": "Days Gone",
+    "pegi": 18,
+    "official": "This game features scenes of graphic violence. The player's character is able to inflict violence against human-like zombies, using a mixture of firearms and bladed weapons, which results in sight of blood and injuries. Zombies can be decapitated or dismembered and their throats can be slit. The game also features scenes of torture, including characters being tied up and attacked with blowtorches. At one point, human characters are tied up and shot in their heads. The game also contains strong language ('fuck').",
+    "text": "Играта съдържа графично насилие срещу зомбита и хора (обезглавяване, разчленяване, мъчения с горелки и разстрели на вързани хора), както и силен език[cite: 6]."
+  },
+  {
+    "id": 238,
+    "title": "Rainbow Six Siege",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа насилие срещу беззащитни хора и силен език, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 286,
+    "title": "Mafia: Definitive Edition",
+    "pegi": 18,
+    "official": "Violence is a strong component of the gameplay, with the player witnessing and engaging in a wide variety of violent acts. These run from beating people to death with baseball bats and tyre irons to gun fights with enemy families. Examples of the strongest violence include a scene in which a man, who is hanging by his wrists, is beaten for information before being executed, and a scene in which mobsters open fire on a restaurant full of innocent diners, killing them all before destroying the place with explosives. Strong language occurs throughout, including 'motherfucker' and 'fuck'. There is also milder bad language, including 'bitch', 'dick' and 'shit'.",
+    "text": "Играта съдържа силно насилие (пребиване до смърт, екзекуции на вързани хора и масови убийства на невинни клиенти в ресторант), както и честа употреба на силен и груб език[cite: 6]."
+  },
+  {
+    "id": 314,
+    "title": "Wolfenstein: The Old Blood",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language",
+    "text": "Играта съдържа екстремно насилие, насилие срещу беззащитни хора и силен език[cite: 6]."
+  },
+  {
+    "id": 446,
+    "title": "Saints Row 2",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Glamorisation of drugs - Strong language - Content that teaches or encourages gambling This game allows the player to interact with other players ONLINE.",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора, романтизиране на наркотиците, силен език и насърчаване на хазарта, с възможност за онлайн игра[cite: 6]."
+  },
+  {
+    "id": 458,
+    "title": "Rage",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Strong language This game allows the player to interact with other players ONLINE.",
+    "text": "Играта съдържа екстремно насилие и силен език, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 103,
+    "title": "Dying Light",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, насилие срещу беззащитни хора и силен език, с опция за онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 152,
+    "title": "Resident Evil 5",
+    "pegi": 18,
+    "official": "The game contains depictions of realistic-looking violence. The game contains bad language (e.g. sexual expletives or blasphemy).",
+    "text": "Играта съдържа реалистично изглеждащо насилие и лош език, като сексуални ругатни или богохулство[cite: 6]."
+  },
+  {
+    "id": 184,
+    "title": "Dragon Age II",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence.",
+    "text": "Играта съдържа екстремно насилие[cite: 6]."
+  },
+  {
+    "id": 209,
+    "title": "Call of Duty: Advanced Warfare",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора и силен език, като позволява онлайн игра с други играчи[cite: 6]."
+  },
+  {
+    "id": 296,
+    "title": "Kingdom Come: Deliverance",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора и силен език[cite: 6]."
+  },
+  {
+    "id": 326,
+    "title": "Just Cause 3",
+    "pegi": 18,
+    "official": "This game is rated PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to motiveless killing of multiple innocents and strong language. Open-world, action-adventure game set in the fictitious Mediterranean island of Medici. Rico Rodriguez returns to his homeland to join an old friend in rebellion against military dictator Sebastiano Di Ravello, whose bloody coup killed Rico’s family. Violence in the game is caused by a variety of weapons, which include pistols, machine guns, explosives and a grappling hook. Whichever weapon is used, characters will fall limp with a blood effect and groaning sound. The player can choose to attack anyone in the game, including innocent civilians. The game features use of the words ‘fuck’ and ‘fucking’.",
+    "text": "Играта съдържа безмотивни убийства на невинни цивилни с различни оръжия и експлозиви, както и използване на силен език[cite: 6]."
+  },
+  {
+    "id": 347,
+    "title": "Prototype",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора и силен език[cite: 6]."
+  },
+  {
+    "id": 212,
+    "title": "Call of Duty: WWII",
+    "pegi": 18,
+    "official": "Game contains depictions of battlefield injuries such as decapitation, dismemberment and mutilation. There is also the use of the sexual expletive ‘fuck’ and derivations of the word.",
+    "text": "Играта съдържа военни наранявания като обезглавяване, разчленяване и осакатяване, както и използване на сексуалната ругатня „fuck“[cite: 6]."
+  },
+  {
+    "id": 303,
+    "title": "The Evil Within",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Strong language",
+    "text": "Играта съдържа екстремно насилие и силен език[cite: 6]."
+  },
+  {
+    "id": 267,
+    "title": "Warframe",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие и позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 276,
+    "title": "Payday 2",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа насилие срещу беззащитни хора и силен език, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 334,
+    "title": "Call of Duty: Infinite Warfare",
+    "pegi": 18,
+    "official": "This game is rated PEGI 18 which restricts availability to ADULTS ONLY and is not suitable for anyone below this age. This rating has been given due to frequent strong violence and the use of sexual expletives.",
+    "text": "Играта съдържа чести прояви на силно насилие и използване на сексуални ругатни[cite: 6]."
+  },
+  {
+    "id": 341,
+    "title": "Borderlands: The Pre-Sequel",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language - Content that teaches or encourages gambling This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора, силен език и съдържание, което насърчава хазарта, с възможност за онлайн игра[cite: 6]."
+  },
+  {
+    "id": 364,
+    "title": "Batman: The Telltale Series",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people",
+    "text": "Играта съдържа екстремно насилие и насилие срещу беззащитни хора[cite: 6]."
+  },
+  {
+    "id": 496,
+    "title": "Silent Hill 4: The Room",
+    "pegi": 18,
+    "official": "Graphic violence includes a scene in which a man is set on fire, crying out in pain as his skin chars, and another scene in which a man is bound to a chair and electrocuted, smoking and convulsing as he bleeds from his eyes and nose. Less graphic violence includes the player's character fighting against attacking creatures and supernatural enemies. There is sight of blood.",
+    "text": "Играта съдържа графично насилие (мъж, запален в пламъци, и вързан на стол мъж, подложен на електрошокове с кървене от очите и носа), както и битки със свръхестествени същества и кръв[cite: 6]."
+  },
+  {
+    "id": 187,
+    "title": "Hitman: Absolution",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора и силен език, с възможност за онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 317,
+    "title": "Dead Space 3",
+    "pegi": 18,
+    "official": "Contains frequent, strong, gory violence and strong language. ",
+    "text": "Играта съдържа чести, силни и кървави прояви на насилие, както и силен език[cite: 6]."
+  },
+  {
+    "id": 429,
+    "title": "Alice: Madness Returns",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Strong language.",
+    "text": "Играта съдържа екстремно насилие и силен език[cite: 6]."
+  },
+  {
+    "id": 476,
+    "title": "Tom Clancy's Ghost Recon: Wildlands",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language",
+    "text": "Играта съдържа екстремно насилие, насилие срещу беззащитни хора и силен език[cite: 6]."
+  },
+  {
+    "id": 126,
+    "title": "Call of Duty: Black Ops II",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, насилие срещу беззащитни хора и силен език, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 221,
+    "title": "Call of Duty: Black Ops III",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства, насилие срещу беззащитни хора и силен език[cite: 6]."
+  },
+  {
+    "id": 121,
+    "title": "Assassin's Creed Unity",
+    "pegi": 18,
+    "official": "This game was rated PEGI 18 for strong, bloody violence and strong language. Not suitable for persons under 18 years of age.",
+    "text": "Играта съдържа силно кърваво насилие и силен език[cite: 6]."
+  },
+  {
+    "id": 390,
+    "title": "The Elder Scrolls Online",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Multiple, motiveless killing - Violence towards defenceless people This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа множество безмотивни убийства и насилие срещу беззащитни хора, с възможност за онлайн взаимодействие с други играчи[cite: 6]."
+  },
+  {
+    "id": 494,
+    "title": "Vampyr",
+    "pegi": 18,
+    "official": "Set in early 20th century Britain during a bout of the lethal Spanish flu, the streets of London are crippled by disease, violence and fear",
+    "text": "Действието се развива във Великобритания в началото на 20 век, по време на смъртоносния грип „испанка“. Улиците на Лондон са сломени от болести, насилие и страх."
+  },
+  {
+    "id": 328,
+    "title": "Dead by Daylight",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence",
+    "text": "Играта съдържа екстремно насилие[cite: 6]."
+  },
+  {
+    "id": 424,
+    "title": "Ryse: Son of Rome",
+    "pegi": 18,
+    "official": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people This game allows the player to interact with other players ONLINE",
+    "text": "Играта съдържа екстремно насилие, множество безмотивни убийства и насилие срещу беззащитни хора, като позволява онлайн взаимодействие с други играчи[cite: 6]."
+  }
 ]

@@ -3,3 +3,4 @@ node_modules/
 *.log
 games_raw.json
 preview.json
+to_explain_*.json
