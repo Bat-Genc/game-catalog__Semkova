@@ -11,6 +11,7 @@ if (!SECRET) {
 }
 
 const PAGE = 24;
+const revoked = new Set();
 
 const authLimiter = rateLimit({
     windowMs: 15 * 60 * 1000,
@@ -23,7 +24,9 @@ const readToken = req => (req.headers.authorization || '').replace(/^Bearer /, '
 
 function requireAuth(req, res, next) {
     try {
-        req.user = jwt.verify(readToken(req), SECRET);
+        const token = readToken(req);
+        if (revoked.has(token)) throw new Error('revoked');
+        req.user = jwt.verify(token, SECRET);
         next();
     } catch {
         res.status(401).json({ error: 'Необходим е вход' });
@@ -177,6 +180,11 @@ function createAuthRouter(withDb) {
             });
             res.json(result);
         } catch (err) { fail(res, err); }
+    });
+
+    router.post('/auth/logout', requireAuth, (req, res) => {
+        revoked.add(readToken(req));
+        res.status(204).end();
     });
 
     return router;

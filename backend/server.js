@@ -1,5 +1,5 @@
 const express = require('express');
-const cors = require('cors');
+const origins = (process.env.CORS_ORIGIN || '').split(',').filter(Boolean);
 const mysql = require('mysql2/promise');
 const { buildGamesQuery } = require('./query');
 const { validateGame } = require('./validate');
@@ -8,14 +8,14 @@ const { createAuthRouter } = require('./users');
 const app = express();
 const PORT = 3000;
 
-app.use(cors({ exposedHeaders: ['X-Total-Count'] }));
+app.use(cors({ origin: origins.length ? origins : true, exposedHeaders: ['X-Total-Count'] }));
 app.use(express.json());
 
 const dbConfig = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: 'studentpass',
+    password: process.env.DB_PASSWORD,
     database: 'games_catalog',
     charset: 'utf8mb4'
 };
@@ -121,6 +121,32 @@ app.post('/api/games', async (req, res) => {
 });
 
 app.use('/api', createAuthRouter(withDb));
+
+app.delete('/api/games/:id', requireAuth, async (req, res) => {
+    try {
+        const id = parseInt(req.params.id, 10);
+        if (!Number.isInteger(id) || id < 1) return res.status(400).json({ error: 'Невалиден номер на игра' });
+        const r = await withDb(async db => (await db.execute('DELETE FROM games WHERE id = ?', [id]))[0]);
+        if (!r.affectedRows) return res.status(404).json({ error: 'Играта не е намерена' });
+        res.status(204).end();
+    } catch (err) { sendError(res, err, 'Грешка при изтриване'); }
+});
+
+app.put('/api/games/:id', requireAuth, async (req, res) => {
+    try {
+        const id = parseInt(req.params.id, 10);
+        if (!Number.isInteger(id) || id < 1) return res.status(400).json({ error: 'Невалиден номер на игра' });
+        const { errors, value: g } = validateGame(req.body);
+        if (errors.length) return res.status(400).json({ error: 'Невалидни данни', details: errors });
+        const r = await withDb(async db => (await db.execute(
+            `UPDATE games SET title=?, studio=?, year=?, guide=?, rating=?, image_url=?,
+             official_tags=?, content_explanation=?, steam_url=?, epic_url=? WHERE id=?`,
+            [g.title, g.studio, g.year, g.guide, g.rating, g.image_url,
+             g.official_tags, g.content_explanation, g.steam_url, g.epic_url, id]))[0]);
+        if (!r.affectedRows) return res.status(404).json({ error: 'Играта не е намерена' });
+        res.json({ id });
+    } catch (err) { sendError(res, err, 'Грешка при обновяване'); }
+});
 
 app.listen(PORT, () => {
     console.log(`✅ Backend слуша на http://localhost:${PORT}`);
