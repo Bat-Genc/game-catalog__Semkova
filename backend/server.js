@@ -74,6 +74,26 @@ app.get('/api/games/:id', async (req, res) => {
     }
 });
 
+// GET /api/genres -> [{ name, count }]
+app.get('/api/genres', async (req, res) => {
+    try {
+        const rows = await withDb(async db => {
+            const [r] = await db.execute('SELECT genres FROM games WHERE genres IS NOT NULL');
+            return r;
+        });
+        const counts = {};
+        rows.forEach(r => r.genres.split(', ').forEach(g => {
+            counts[g] = (counts[g] || 0) + 1;
+        }));
+        const list = Object.entries(counts)
+            .sort((a, b) => b[1] - a[1])
+            .map(([name, count]) => ({ name, count }));
+        res.json(list);
+    } catch (err) {
+        sendError(res, err, 'Грешка при заявка към базата данни');
+    }
+});
+
 // POST /api/games
 app.post('/api/games', async (req, res) => {
     try {
