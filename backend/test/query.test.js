@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert');
-const { buildGamesQuery } = require('../query');
+const { buildGamesQuery } = require('../src/query');
 
 test('без параметри: сортира по рейтинг и няма LIMIT', () => {
     const { sql, params } = buildGamesQuery({});

@@ -1,3 +1,10 @@
+const path = require('path');
+const DATA = path.join(__dirname, '..', 'data');
+
+
+
+
+
 const fs = require('fs');
 const mysql = require('mysql2/promise');
 

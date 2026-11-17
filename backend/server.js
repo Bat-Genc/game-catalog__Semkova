@@ -1,9 +1,9 @@
 const express = require('express');
 const cors = require('cors');
 const mysql = require('mysql2/promise');
-const { buildGamesQuery } = require('./query');
-const { validateGame } = require('./validate');
-const { createAuthRouter, requireAuth } = require('./users');
+const { buildGamesQuery } = require('./src/query');
+const { validateGame } = require('./src/validate');
+const { createAuthRouter, requireAuth } = require('./src/users');
 
 const app = express();
 const PORT = 3000;

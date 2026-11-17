@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert');
-const { validateGame, validateCredentials } = require('../validate');
+const { validateGame, validateCredentials } = require('../src/validate');
 
 test('валидна игра: подрязва интервали и закръгля рейтинга', () => {
     const { errors, value } = validateGame({ title: '  Тест  ', studio: 'S', year: '2024', rating: 8.46 });

@@ -1,3 +1,10 @@
+const path = require('path');
+const DATA = path.join(__dirname, '..', 'data');
+
+
+
+
+
 const fs = require('fs');
 const mysql = require('mysql2/promise');
 const BATCH = 8;
@@ -6,7 +13,7 @@ const KEY = process.env.GEMINI_API_KEY;
 const MODEL = 'gemini-3.8-flash';
 const PEGI_ORDER = [7, 12, 16, 3, 18]; // в този ред
 const PER_GROUP = 8;  
-const OUT = 'explanations.json';
+const OUT = path.join(DATA, 'explanations.json');
 const dbConfig = {
     host: 'localhost', port: 3306, user: 'root',
     password: 'studentpass', database: 'games_catalog', charset: 'utf8mb4'

@@ -1,3 +1,9 @@
+const path = require('path');
+const DATA = path.join(__dirname, '..', 'data');
+
+
+
+
 const fs = require('fs');
 
 const { TWITCH_CLIENT_ID: ID, TWITCH_CLIENT_SECRET: SECRET } = process.env;
@@ -60,7 +66,7 @@ function clean(g) {
     const token = await getToken();
     const raw = await fetchGames(token);
     const games = raw.map(clean).filter(g => g.studio && g.year);
-    fs.writeFileSync('games_raw.json', JSON.stringify(games, null, 2));
+    fs.writeFileSync(path.join(DATA, 'games_raw.json'), JSON.stringify(games, null, 2));
 
     console.log('Изтеглени:', raw.length, '| след филтър студио/година:', games.length);
     console.log('Със Steam линк:', games.filter(g => g.steam_url).length);

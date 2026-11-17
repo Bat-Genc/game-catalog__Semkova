@@ -1,7 +1,7 @@
 node_modules/
 .env
 *.log
-games_raw.json
+backend/data/games_raw.json
 preview.json
 gemini_answer.json
 to_explain*.json

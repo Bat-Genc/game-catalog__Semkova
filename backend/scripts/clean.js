@@ -1,6 +1,10 @@
+const path = require('path');
+const DATA = path.join(__dirname, '..', 'data');
+
+
 const fs = require('fs');
 
-const raw = JSON.parse(fs.readFileSync('games_raw.json', 'utf8'));
+const raw = JSON.parse(fs.readFileSync(path.join(DATA, 'games_raw.json'), 'utf8'));
 
 function cleanSteamUrl(url) {
     const m = (url || '').match(/store\.steampowered\.com\/app\/(\d+)/);
@@ -21,7 +25,7 @@ for (const g of raw) {
     });
 }
 
-fs.writeFileSync('games_clean.json', JSON.stringify(games, null, 2));
+fs.writeFileSync(path.join(DATA, 'games_clean.json'), JSON.stringify(games, null, 2));
 
 const studios = new Set(games.map(g => g.studio));
 console.log('Дубликати махнати:', raw.length - games.length);
