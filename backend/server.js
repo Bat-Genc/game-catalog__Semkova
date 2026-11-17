@@ -3,6 +3,7 @@ const cors = require('cors');
 const mysql = require('mysql2/promise');
 const { buildGamesQuery } = require('./query');
 const { validateGame } = require('./validate');
+const { createAuthRouter } = require('./users');
 
 const app = express();
 const PORT = 3000;
@@ -118,6 +119,8 @@ app.post('/api/games', async (req, res) => {
         sendError(res, err, 'Грешка при добавяне на игра');
     }
 });
+
+app.use('/api', createAuthRouter(withDb));
 
 app.listen(PORT, () => {
     console.log(`✅ Backend слуша на http://localhost:${PORT}`);

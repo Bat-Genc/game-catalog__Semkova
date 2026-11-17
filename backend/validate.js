@@ -56,3 +56,19 @@ function validateGame(body = {}) {
 }
 
 module.exports = { validateGame };
+
+function validateCredentials(body = {}) {
+    const errors = [];
+    const username = cleanText(body.username);
+    const password = typeof body.password === 'string' ? body.password : '';
+
+    if (!username || !/^[A-Za-z0-9_]{3,30}$/.test(username)) {
+        errors.push('username: 3-30 символа, само букви, цифри и _');
+    }
+    if (password.length < 8 || password.length > 72) {
+        errors.push('password: между 8 и 72 символа');
+    }
+    return { errors, value: { username, password } };
+}
+
+module.exports = { validateGame, validateCredentials };
