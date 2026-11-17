@@ -190,4 +190,4 @@ function createAuthRouter(withDb) {
     return router;
 }
 
-module.exports = { createAuthRouter };
+module.exports = { createAuthRouter, requireAuth };

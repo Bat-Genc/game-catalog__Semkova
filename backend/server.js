@@ -1,13 +1,14 @@
 const express = require('express');
-const origins = (process.env.CORS_ORIGIN || '').split(',').filter(Boolean);
+const cors = require('cors');
 const mysql = require('mysql2/promise');
 const { buildGamesQuery } = require('./query');
 const { validateGame } = require('./validate');
-const { createAuthRouter } = require('./users');
+const { createAuthRouter, requireAuth } = require('./users');
 
 const app = express();
 const PORT = 3000;
 
+const origins = (process.env.CORS_ORIGIN || '').split(',').filter(Boolean);
 app.use(cors({ origin: origins.length ? origins : true, exposedHeaders: ['X-Total-Count'] }));
 app.use(express.json());
 
