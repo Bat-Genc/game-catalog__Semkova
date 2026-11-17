@@ -1,56 +1,58 @@
 # ⚙️ Backend & Database Tasks (Bat_Genc)
 
 ## 🗄️ База данни (MySQL)
-* Таблица `games` съдържа: `id`, `title`, `studio`, `year`, `guide`, `rating`, `image_url`.
-* Нови колони:
-  * `official_tags` - официални тагове (напр. "Violence, Bad Language")
-  * `content_explanation` - обяснение на български какво означават таговете
-  * `steam_url` - линк към Steam
-  * `epic_url` - линк към Epic Games
-* Инициализация чрез `db/init.sql` с `SET NAMES utf8mb4;` за правилна кирилица.
-* След промяна на схемата: `docker compose down -v`, после `docker compose up -d`.
+* Таблица `games` (496 игри от IGDB, всички излизали на PC): `id`, `title`, `studio`, `year`, `rating`, `image_url`, `guide`, `official_tags`, `content_explanation`, `steam_url`, `epic_url`, `summary`, `genres`, `platforms`, `igdb_url`, `screenshots` (JSON), `pegi_age`, `age_synopsis`.
+* Таблица `users` (`username`, `password_hash`) и `likes` (`user_id`, `game_id`, с `ON DELETE CASCADE`).
+* Инициализация чрез `db/init.sql` с `SET NAMES utf8mb4;`.
+* `content_explanation`: 249 обяснения на български, превод на официалните PEGI дескриптори и ръчно прегледани. Игри без официален текст показват само PEGI възрастта.
 
-## 🔌 API Calls (Endpoints)
-Всички заявки се правят към `http://localhost:3000/api/games`.
+## 📥 Зареждане на данни
+`fetch_igdb.js` (IGDB) → `clean.js` → `games_clean.json` → `seed.js` → `explain_bot.js --apply` (от `explanations.json`).
 
-1. **Взимане на всички игри:**
-   * `GET /api/games`
-   * Връща JSON масив с всички игри, подредени по рейтинг (низходящо).
+## 🔌 API (http://localhost:3000/api)
+| Метод | Адрес | Описание |
+|-------|-------|----------|
+| GET | `/games` | `search`, `studio` (част от името), `minRating`, `sort=year\|rating`, `genre`, `pegi`, `limit`, `page`; общият брой е в `X-Total-Count` |
+| GET | `/games/:id` | Една игра (400 / 404 при грешка) |
+| POST | `/games` | Добавяне с валидация (`validate.js`) |
+| PUT, DELETE | `/games/:id` | Редакция и изтриване (с вход) |
+| GET | `/genres` | Жанрове с брой игри |
+| POST | `/auth/register`, `/auth/login` | Профил, връща JWT |
+| POST | `/auth/logout` | Анулира токена |
+| GET | `/me`, `/me/likes` | Профил и харесани (с вход) |
+| PUT, DELETE | `/games/:id/like` | Харесване / махане |
+| GET | `/trending` | Най-харесвани последните 7 дни |
+| GET | `/recommendations` | По жанровете на харесаните; иначе trending |
 
-2. **Търсене по име:**
-   * `GET /api/games?search=witcher`
-   * SQL: `SELECT * FROM games WHERE title LIKE '%witcher%'`
+## 🔒 Сигурност
+* Пароли с bcrypt, JWT за 12 часа, ограничение 20 опита на 15 минути.
+* Валидация на входа и на URL адресите (само `http(s)`).
+* Параметризирани SQL заявки.
+* Парола на базата и CORS в `backend/.env` (`DB_PASSWORD`, `JWT_SECRET`, `CORS_ORIGIN`).
 
-3. **Филтриране по студио:**
-   * `GET /api/games?studio=CD Projekt Red`
-   * SQL: `SELECT * FROM games WHERE studio = 'CD Projekt Red'`
+## 🧹 Чист код
+* `withDb()` затваря връзката винаги, `query.js` и `validate.js` са отделени и тестваеми.
+* CI през GitHub Actions (`node --test`).
 
-4. **Филтриране по минимален рейтинг:**
-   * `GET /api/games?minRating=9.0`
-   * SQL: `SELECT * FROM games WHERE rating >= 9.0`
+## 🐳 Стартиране
+```bash
+docker compose up -d        # изчакай ~20 секунди
+cd backend && npm install
+node seed.js
+node explain_bot.js --apply
+node --env-file=.env server.js
+```
+`docker compose down -v` изтрива базата; повтори seed и `--apply`.
 
-5. **Сортиране:**
-   * `GET /api/games?sort=year` - най-новите игри първи (`ORDER BY year DESC`)
-   * Без параметър - по рейтинг (`ORDER BY rating DESC`)
-   * Параметрите могат да се комбинират: `?studio=Team Cherry&sort=year`
-
-6. **Добавяне на игра (CRUD демо):**
-   * `POST /api/games` с JSON тяло (задължителни: `title`, `studio`)
-   * Връща `201` и `{ "id": <ново id> }`
-
-## 📦 JSON полета към Frontend
-`id`, `title`, `studio`, `year`, `guide`, `rating`, `image_url`, `official_tags`, `content_explanation`, `steam_url`, `epic_url`
-
-* `rating` идва като низ (`"9.7"`), затова при нужда се ползва `parseFloat()`.
-* `steam_url`, `epic_url` и други полета могат да са `null`, затова се проверяват преди показване.
-
-## 🐳 Docker & Среда
-* `docker compose up -d` стартира MySQL (порт 3306) и Adminer (порт 8080).
-* `cd backend && node server.js` стартира сървъра (порт 3000).
+## ⚠️ Известни ограничения (бъдещо развитие)
+* Анулираните токени са в паметта (изчистват се при рестарт).
+* PUT/DELETE за игри са достъпни за всеки влязъл потребител (няма роли).
+* Няма хардуерна проверка "ще ми тръгне ли играта".
 
 ## ✅ Статус
-- [x] Обновен `db/init.sql` с новите колони и данни
-- [x] Сортиране `?sort=year`
-- [x] `POST /api/games`
-- [x] Тествани всички endpoint-и с `curl`
-- [x] Колегата е уведомен за новите JSON ключове
+- [x] Страниране, филтри, сортиране, жанрове
+- [x] Профили, харесвания, trending, препоръки
+- [x] Пълен CRUD за игрите
+- [x] `test_all.sh`: 36/36 проверки минават
+- [ ] Unit тестове за `query.js` и `validate.js`
+- [ ] Frontend (Kirashki): виж `KIRASHKI.md`
