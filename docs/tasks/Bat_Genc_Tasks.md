@@ -7,7 +7,7 @@
 * `content_explanation`: 249 обяснения на български, превод на официалните PEGI дескриптори и ръчно прегледани. Игри без официален текст показват само PEGI възрастта.
 
 ## 📥 Зареждане на данни
-`fetch_igdb.js` (IGDB) → `clean.js` → `games_clean.json` → `seed.js` → `explain_bot.js --apply` (от `explanations.json`).
+`scripts/fetch_igdb.js` (IGDB) → `scripts/clean.js` → `data/games_clean.json` → `scripts/seed.js` → `scripts/explain_bot.js --apply` (от `explanations.json`).
 
 ## 🔌 API (http://localhost:3000/api)
 | Метод | Адрес | Описание |
@@ -38,8 +38,8 @@
 ```bash
 docker compose up -d        # изчакай ~20 секунди
 cd backend && npm install
-node seed.js
-node explain_bot.js --apply
+node scripts/seed.js
+node scripts/explain_bot.js --apply
 node --env-file=.env server.js
 ```
 `docker compose down -v` изтрива базата; повтори seed и `--apply`.
@@ -53,6 +53,6 @@ node --env-file=.env server.js
 - [x] Страниране, филтри, сортиране, жанрове
 - [x] Профили, харесвания, trending, препоръки
 - [x] Пълен CRUD за игрите
-- [x] `test_all.sh`: 36/36 проверки минават
+- [x] `backend/test/test_all.sh`: 36/36 проверки минават
 - [ ] Unit тестове за `query.js` и `validate.js`
 - [ ] Frontend (Kirashki): виж `KIRASHKI.md`

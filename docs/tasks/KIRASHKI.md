@@ -35,5 +35,5 @@ content_explanation (български, само за ~249 игри), guide, of
 8. Корицата е портретна: aspect-ratio 3/4 или object-fit: contain
 
 ## Как се пуска бекендът
-docker compose up -d (изчакай 20 сек), после в backend: npm install, node seed.js, node explain_bot.js --apply, node --env-file=.env server.js
+docker compose up -d (изчакай 20 сек), после в backend: npm install, node scripts/seed.js, node scripts/explain_bot.js --apply, node --env-file=.env server.js
 В backend/.env: JWT_SECRET, DB_PASSWORD=studentpass, CORS_ORIGIN=<адресът на frontend-а, напр. http://localhost:5000>

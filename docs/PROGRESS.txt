@@ -14,7 +14,7 @@
 
 2. Как се стартира
 - docker compose up -d (изчакай ~20 секунди)
-- cd backend && npm install && node seed.js && node explain_bot.js --apply
+- cd backend && npm install && node scripts/seed.js && node scripts/explain_bot.js --apply
 - node --env-file=.env server.js
 - npx serve frontend
 - Adminer: порт 8080

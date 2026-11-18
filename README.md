@@ -10,7 +10,7 @@
 * **База данни:** MySQL 8.0 (Docker) + Adminer
 * **Backend:** Node.js, Express, `mysql2`, `cors`, `bcryptjs`, `jsonwebtoken`, `express-rate-limit`
 * **Frontend:** Vanilla JavaScript, HTML5, CSS3
-* **Тестове и CI:** `node:test`, GitHub Actions, `backend/test_all.sh`
+* **Тестове и CI:** `node:test`, GitHub Actions, `backend/test/test_all.sh`
 
 ## 🚀 Стартиране
 
@@ -30,8 +30,8 @@
    ```bash
    cd backend
    npm install
-   node seed.js
-   node explain_bot.js --apply
+   node scripts/seed.js
+   node scripts/explain_bot.js --apply
    node --env-file=.env server.js
    ```
 4. Frontend (нов терминал):
@@ -60,15 +60,20 @@
 Общият брой игри е в хедъра `X-Total-Count`. Вход: `Authorization: Bearer <token>`.
 
 ## 📦 Данни
-IGDB (еднократно): `fetch_igdb.js` → `clean.js` → `games_clean.json` → `seed.js`. Българските обяснения (`explanations.json`) са превод на официалните PEGI дескриптори, прегледани ръчно; игри без официален текст показват само PEGI възрастта.
+IGDB (еднократно): `scripts/fetch_igdb.js` → `scripts/clean.js` → `data/games_clean.json` → `scripts/seed.js`. Българските обяснения (`explanations.json`) са превод на официалните PEGI дескриптори, прегледани ръчно; игри без официален текст показват само PEGI възрастта.
 
 ## ✅ Тестове
 * `cd backend && npm test` (node:test, пуска се и от CI)
-* `bash backend/test_all.sh` при работещ сървър: 36 проверки на целия API
+* `bash backend/test/test_all.sh` при работещ сървър: 36 проверки на целия API
 
 ## 📂 Структура
 * `/db` - SQL за инициализация
-* `/backend` - API, скриптове за данни, тестове
+* `/backend`
+  * `server.js` - входна точка
+  * `src/` - `query.js`, `validate.js`, `users.js`
+  * `scripts/` - `fetch_igdb.js`, `clean.js`, `seed.js`, `explain_bot.js`
+  * `data/` - `games_clean.json`, `explanations.json`
+  * `test/` - unit тестове, `test_all.sh`, `test_auth.sh`
 * `/frontend` - HTML, CSS, JS
 * `docker-compose.yml`
 
