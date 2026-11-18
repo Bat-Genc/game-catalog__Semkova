@@ -60,10 +60,10 @@
 Общият брой игри е в хедъра `X-Total-Count`. Вход: `Authorization: Bearer <token>`.
 
 ## 📦 Данни
-IGDB (еднократно): `scripts/fetch_igdb.js` → `scripts/clean.js` → `data/games_clean.json` → `scripts/seed.js`. Българските обяснения (`explanations.json`) са превод на официалните PEGI дескриптори, прегледани ръчно; игри без официален текст показват само PEGI възрастта.
+IGDB (еднократно): `scripts/fetch_igdb.js` → `scripts/clean.js` → `data/games_clean.json` → `scripts/seed.js`. Българските обяснения (`data/explanations.json`) са превод на официалните PEGI дескриптори, прегледани ръчно; игри без официален текст показват само PEGI възрастта.
 
 ## ✅ Тестове
-* `cd backend && npm test` (node:test, пуска се и от CI)
+* `cd backend && npm test`: 18 unit теста (node:test), пуска се и от CI
 * `bash backend/test/test_all.sh` при работещ сървър: 36 проверки на целия API
 
 ## 📂 Структура
@@ -75,7 +75,14 @@ IGDB (еднократно): `scripts/fetch_igdb.js` → `scripts/clean.js` → 
   * `data/` - `games_clean.json`, `explanations.json`
   * `test/` - unit тестове, `test_all.sh`, `test_auth.sh`
 * `/frontend` - HTML, CSS, JS
+* `/docs` - прогрес и задачи на екипа
 * `docker-compose.yml`
+
+## 📚 Документация
+* [Прогрес](docs/PROGRESS.txt)
+* [Задачи Backend](docs/tasks/Bat_Genc_Tasks.md)
+* [Задачи Frontend](docs/tasks/KIRASHKI.md)
+* [Обща задача](docs/tasks/TASKS.md)
 
 ## 🔮 Бъдещо развитие
 Проверка "ще ми тръгне ли играта", роли за PUT/DELETE, черен списък на токените в базата, истински trending с периодично обновяване.
