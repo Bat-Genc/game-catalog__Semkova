@@ -133,7 +133,12 @@
 </dialog>
 
 <script>
-const API = 'http://localhost:3000/api';
+// API на същия компютър/мрежов адрес като страницата.
+ // Може да се зададе друг порт с ?apiPort=3000 (или друг номер).
+ const apiPort = new URLSearchParams(location.search).get('apiPort') || '3000';
+ const apiHost = location.hostname || 'localhost';
+ const apiProtocol = location.protocol === 'https:' ? 'https:' : 'http:';
+ const API = `${apiProtocol}//${apiHost}:${apiPort}/api`;
 const PAGE_SIZE = 24;
 const $ = s => document.querySelector(s);
 
