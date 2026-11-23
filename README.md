@@ -36,7 +36,9 @@
    ```
 4. Frontend (нов терминал):
    ```bash
-   npx serve frontend
+   cd frontend
+   npm install
+   npm start
    ```
 
 > `docker compose down -v` изтрива базата (и потребителите). След него повторете стъпки 2-3.
